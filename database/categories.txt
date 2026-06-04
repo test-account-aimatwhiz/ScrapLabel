@@ -1,0 +1,5 @@
+metal
+plastic
+wire
+bolt
+nut

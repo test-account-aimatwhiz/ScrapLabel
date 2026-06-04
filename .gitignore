@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Model checkpoints (large binary files)
+checkpoints/
+
+# Uploaded & generated images/outputs (runtime data)
+uploads/
+images/
+outputs/
+
+# Database runtime files
+database/*.db
+database/*.sqlite
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+*.env
+
+# GPU/system info dumps
+gpu_info.txt
+system_info.txt

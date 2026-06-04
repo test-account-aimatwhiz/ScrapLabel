@@ -1,0 +1,12 @@
+{
+    "0": "METAL",
+    "1": "PLASTIC",
+    "2": "RUBBER",
+    "3": "WOOD",
+    "4": "MUD",
+    "5": "GLASS",
+    "6": "FABRIC",
+    "7": "E_WASTE",
+    "8": "PAPER",
+    "9": "UNKNOWN"
+}
