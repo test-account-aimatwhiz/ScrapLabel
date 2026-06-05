@@ -65,7 +65,11 @@ def save_crops(image, masks):
             continue
 
         crop = image[min(y):max(y), min(x):max(x)]
-        crops.append(crop)
+        crops.append({
+            "crop": crop,
+            "mask": mask,
+            "bbox": m["bbox"],  # [x, y, w, h] absolute pixels
+        })
 
     return crops
 

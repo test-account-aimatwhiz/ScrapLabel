@@ -3,3 +3,5 @@ plastic
 wire
 bolt
 nut
+coated_structural_steel
+hydrogen_storage_vessel

@@ -1,0 +1,4 @@
+image_name,object_id,label,timestamp,crop_path
+Image1.jpg.png,Image1.jpg.png_object_1,metal,2026-06-05T06:43:33.622814,database/crops/Image1.jpg.png_object_1.png
+Image1.jpg.png,Image1.jpg.png_object_1,coated_structural_steel,2026-06-05T06:45:25.866890,database/crops/Image1.jpg.png_object_1.png
+sealed1.jpg,sealed1.jpg_object_0,hydrogen_storage_vessel,2026-06-05T06:46:32.476873,database/crops/sealed1.jpg_object_0.png

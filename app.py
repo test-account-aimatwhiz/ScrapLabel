@@ -11,7 +11,7 @@ from sam2_engine import (
 )
 
 from utils import load_categories, add_category
-from storage import save_to_db
+from storage import save_to_db, save_yolo_annotation, save_session, load_session, mark_session_object_labeled, delete_session, list_pending_sessions
 
 
 # =========================
@@ -52,6 +52,34 @@ if "crops" not in st.session_state:
 
 if "index" not in st.session_state:
     st.session_state.index = 0
+
+
+# =========================
+# RESUME PENDING SESSION
+# =========================
+pending = list_pending_sessions()
+if pending and st.session_state.image is None:
+    st.warning(f"⚠️ Found {len(pending)} unfinished session(s) from a previous run.")
+    for p in pending:
+        col_r, col_d = st.columns([3, 1])
+        with col_r:
+            if st.button(f"▶️ Resume: {p['image_name']} ({p['unlabeled']} unlabeled)", key=f"resume_{p['image_name']}"):
+                result = load_session(p["image_name"])
+                if result:
+                    image, crops, meta = result
+                    st.session_state.image = image
+                    st.session_state.image_name = p["image_name"]
+                    st.session_state.crops = crops
+                    # Resume at first unlabeled object
+                    first_unlabeled = next(
+                        (o["index"] for o in meta["objects"] if not o["labeled"]), 0
+                    )
+                    st.session_state.index = first_unlabeled
+                    st.rerun()
+        with col_d:
+            if st.button("🗑️ Discard", key=f"discard_{p['image_name']}"):
+                delete_session(p["image_name"])
+                st.rerun()
 
 
 # =========================
@@ -104,6 +132,9 @@ if st.session_state.image is not None:
         st.session_state.crops = crops
         st.session_state.index = 0
 
+        # Persist session to disk immediately (crash-safe)
+        save_session(st.session_state.image_name, st.session_state.image, crops)
+
         overlay = create_overlay(st.session_state.image, masks)
 
         os.makedirs("outputs", exist_ok=True)
@@ -125,7 +156,7 @@ if st.session_state.image is not None:
     with col2:
         if len(st.session_state.crops) > 0:
             st.image(
-                st.session_state.crops[st.session_state.index],
+                st.session_state.crops[st.session_state.index]["crop"],
                 caption=f"{st.session_state.image_name}_object_{st.session_state.index}"
             )
 
@@ -169,7 +200,9 @@ if len(st.session_state.crops) > 0:
     with col2:
         if st.button("💾 Save"):
 
-            crop = st.session_state.crops[idx]
+            crop_data = st.session_state.crops[idx]
+            crop = crop_data["crop"]
+            mask = crop_data["mask"]
             object_id = f"{st.session_state.image_name}_object_{idx}"
 
             os.makedirs("database/crops", exist_ok=True)
@@ -184,7 +217,33 @@ if len(st.session_state.crops) > 0:
                 path
             )
 
-            st.success(f"Saved {object_id}")
+            # YOLO segmentation export + labels.json + permanent mask
+            class_id = categories.index(label) if label in categories else 0
+            save_yolo_annotation(
+                st.session_state.image_name,
+                st.session_state.image,
+                class_id,
+                label,
+                mask,
+                object_id,
+                categories
+            )
+
+            st.success(f"Saved {object_id} → YOLO label written to dataset/labels/train/")
+
+            # Mark this object as labeled in the persistent session
+            mark_session_object_labeled(st.session_state.image_name, idx)
+
+            # If all objects labeled, clean up session folder
+            total_labeled = sum(
+                1 for c in st.session_state.crops
+                if c.get("labeled", False)
+            )
+            # mark in memory too
+            st.session_state.crops[idx]["labeled"] = True
+            if all(c.get("labeled", False) for c in st.session_state.crops):
+                delete_session(st.session_state.image_name)
+                st.success("✅ All objects labeled — session complete!")
 
     # NEXT
     with col3:
