@@ -107,6 +107,8 @@ def save_yolo_annotation(image_name, image, class_id, label, mask, object_id, ca
     if os.path.exists(json_path):
         with open(json_path) as f:
             records = json.load(f)
+        if not isinstance(records, list):
+            records = []
     else:
         records = []
 

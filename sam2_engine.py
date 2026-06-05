@@ -1,6 +1,10 @@
+import warnings
 import cv2
 import numpy as np
 import torch
+
+# Suppress SAM2 optional C-extension warning (post-processing only, no effect on results)
+warnings.filterwarnings("ignore", message="cannot import name '_C'", category=UserWarning)
 
 from sam2.build_sam import build_sam2
 from sam2.automatic_mask_generator import SAM2AutomaticMaskGenerator
@@ -50,7 +54,11 @@ def load_sam2(
 
 
 def generate_masks(mask_generator, image):
-    return mask_generator.generate(image)
+    try:
+        return mask_generator.generate(image)
+    finally:
+        # Reset after generation so cached model doesn't hold stale image state
+        mask_generator.predictor.reset_predictor()
 
 
 def save_crops(image, masks):

@@ -1,3 +1,6 @@
+import torch
+torch.classes.__path__ = []  # Fix: prevent Streamlit watcher from crashing on torch internals
+
 import streamlit as st
 import cv2
 import numpy as np
@@ -35,7 +38,7 @@ crop_n_layers = st.sidebar.slider("Crop Layers", 0, 3, 1)
 crop_overlap_ratio = st.sidebar.slider("Crop Overlap", 0.0, 0.8, 0.40, step=0.05)
 min_mask_region_area = st.sidebar.slider("Min Mask Area", 10, 300, 50, step=10)
 box_nms_thresh = st.sidebar.slider("NMS Threshold", 0.3, 0.9, 0.65, step=0.05)
-use_m2m = st.sidebar.checkbox("Use M2M", value=True)
+use_m2m = st.sidebar.checkbox("Use M2M", value=False)
 
 
 # =========================
@@ -83,9 +86,15 @@ if pending and st.session_state.image is None:
 
 
 # =========================
-# MODEL BUILDER (DYNAMIC)
+# MODEL BUILDER (CACHED)
 # =========================
-def build_generator():
+@st.cache_resource
+def build_generator(
+    points_per_side, points_per_batch, pred_iou_thresh,
+    stability_score_thresh, stability_score_offset,
+    crop_n_layers, crop_overlap_ratio, min_mask_region_area,
+    box_nms_thresh, use_m2m
+):
     return load_sam2(
         points_per_side=points_per_side,
         points_per_batch=points_per_batch,
@@ -100,7 +109,12 @@ def build_generator():
     )
 
 
-mask_generator = build_generator()
+mask_generator = build_generator(
+    points_per_side, points_per_batch, pred_iou_thresh,
+    stability_score_thresh, stability_score_offset,
+    crop_n_layers, crop_overlap_ratio, min_mask_region_area,
+    box_nms_thresh, use_m2m
+)
 
 
 # =========================
@@ -234,13 +248,10 @@ if len(st.session_state.crops) > 0:
             # Mark this object as labeled in the persistent session
             mark_session_object_labeled(st.session_state.image_name, idx)
 
-            # If all objects labeled, clean up session folder
-            total_labeled = sum(
-                1 for c in st.session_state.crops
-                if c.get("labeled", False)
-            )
-            # mark in memory too
+            # Mark in memory too
             st.session_state.crops[idx]["labeled"] = True
+
+            # If all objects labeled, clean up session folder
             if all(c.get("labeled", False) for c in st.session_state.crops):
                 delete_session(st.session_state.image_name)
                 st.success("✅ All objects labeled — session complete!")
