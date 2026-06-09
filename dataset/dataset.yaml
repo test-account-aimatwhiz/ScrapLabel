@@ -1,7 +1,7 @@
 path: /home/matwhiz/ScrapLabeller/dataset
 train: images/train
 val: images/train
-nc: 73
+nc: 77
 names:
 - metal
 - plastic
@@ -76,3 +76,7 @@ names:
 - heat_exchanger
 - transfermer_tank
 - closed_tank
+- transfarmer_tanks
+- cryogenic_tank
+- chlorine
+- nitrogen_cylinder

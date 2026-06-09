@@ -71,3 +71,7 @@ refrigrant_recivers_tank
 heat_exchanger
 transfermer_tank
 closed_tank
+transfarmer_tanks
+cryogenic_tank
+chlorine
+nitrogen_cylinder

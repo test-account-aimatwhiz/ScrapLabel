@@ -3,8 +3,12 @@ import cv2
 import numpy as np
 import torch
 
-# Suppress SAM2 optional C-extension warning (post-processing only, no effect on results)
-warnings.filterwarnings("ignore", message="cannot import name '_C'", category=UserWarning)
+# Suppress SAM2 optional warning
+warnings.filterwarnings(
+    "ignore",
+    message="cannot import name '_C'",
+    category=UserWarning
+)
 
 from sam2.build_sam import build_sam2
 from sam2.automatic_mask_generator import SAM2AutomaticMaskGenerator
@@ -16,6 +20,9 @@ CHECKPOINT = "checkpoints/sam2.1_hiera_large.pt"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 
+# -----------------------------
+# MODEL LOADING
+# -----------------------------
 def load_sam2(
     points_per_side=32,
     points_per_batch=128,
@@ -53,14 +60,38 @@ def load_sam2(
     return mask_generator
 
 
+# -----------------------------
+# FIXED MASK GENERATION (IMPORTANT)
+# -----------------------------
 def generate_masks(mask_generator, image):
+    """
+    Safe SAM2 inference:
+    - ALWAYS sets image before inference
+    - Avoids cross-machine / Streamlit state bugs
+    """
+
+    predictor = mask_generator.predictor
+
     try:
-        return mask_generator.generate(image)
+        # ✅ CRITICAL FIX: ensure SAM2 knows current image
+        predictor.set_image(image)
+
+        masks = mask_generator.generate(image)
+
+        return masks
+
     finally:
-        # Reset after generation so cached model doesn't hold stale image state
-        mask_generator.predictor.reset_predictor()
+        # optional cleanup (safe across environments)
+        if hasattr(predictor, "reset_image"):
+            try:
+                predictor.reset_image()
+            except:
+                pass
 
 
+# -----------------------------
+# CROP EXTRACTION
+# -----------------------------
 def save_crops(image, masks):
     crops = []
 
@@ -73,15 +104,19 @@ def save_crops(image, masks):
             continue
 
         crop = image[min(y):max(y), min(x):max(x)]
+
         crops.append({
             "crop": crop,
             "mask": mask,
-            "bbox": m["bbox"],  # [x, y, w, h] absolute pixels
+            "bbox": m["bbox"],  # [x, y, w, h]
         })
 
     return crops
 
 
+# -----------------------------
+# VISUALIZATION OVERLAY
+# -----------------------------
 def create_overlay(image, masks):
     overlay = image.copy()
     rng = np.random.default_rng(42)
