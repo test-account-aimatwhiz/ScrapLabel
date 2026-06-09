@@ -1,0 +1,3522 @@
+{
+  "image_name": "hollow3.jpg",
+  "total": 293,
+  "objects": [
+    {
+      "index": 0,
+      "crop": "database/sessions/hollow3/crop_0.png",
+      "mask": "database/sessions/hollow3/mask_0.npy",
+      "bbox": [
+        411.0,
+        236.0,
+        246.0,
+        204.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 1,
+      "crop": "database/sessions/hollow3/crop_1.png",
+      "mask": "database/sessions/hollow3/mask_1.npy",
+      "bbox": [
+        0.0,
+        242.0,
+        144.0,
+        105.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 2,
+      "crop": "database/sessions/hollow3/crop_2.png",
+      "mask": "database/sessions/hollow3/mask_2.npy",
+      "bbox": [
+        462.0,
+        466.0,
+        257.0,
+        145.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 3,
+      "crop": "database/sessions/hollow3/crop_3.png",
+      "mask": "database/sessions/hollow3/mask_3.npy",
+      "bbox": [
+        562.0,
+        563.0,
+        130.0,
+        160.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 4,
+      "crop": "database/sessions/hollow3/crop_4.png",
+      "mask": "database/sessions/hollow3/mask_4.npy",
+      "bbox": [
+        162.0,
+        73.0,
+        112.0,
+        167.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 5,
+      "crop": "database/sessions/hollow3/crop_5.png",
+      "mask": "database/sessions/hollow3/mask_5.npy",
+      "bbox": [
+        0.0,
+        258.0,
+        434.0,
+        171.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 6,
+      "crop": "database/sessions/hollow3/crop_6.png",
+      "mask": "database/sessions/hollow3/mask_6.npy",
+      "bbox": [
+        746.0,
+        254.0,
+        105.0,
+        137.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 7,
+      "crop": "database/sessions/hollow3/crop_7.png",
+      "mask": "database/sessions/hollow3/mask_7.npy",
+      "bbox": [
+        123.0,
+        425.0,
+        91.0,
+        93.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 8,
+      "crop": "database/sessions/hollow3/crop_8.png",
+      "mask": "database/sessions/hollow3/mask_8.npy",
+      "bbox": [
+        75.0,
+        193.0,
+        123.0,
+        85.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 9,
+      "crop": "database/sessions/hollow3/crop_9.png",
+      "mask": "database/sessions/hollow3/mask_9.npy",
+      "bbox": [
+        691.0,
+        614.0,
+        192.0,
+        130.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 10,
+      "crop": "database/sessions/hollow3/crop_10.png",
+      "mask": "database/sessions/hollow3/mask_10.npy",
+      "bbox": [
+        734.0,
+        101.0,
+        100.0,
+        70.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 11,
+      "crop": "database/sessions/hollow3/crop_11.png",
+      "mask": "database/sessions/hollow3/mask_11.npy",
+      "bbox": [
+        188.0,
+        210.0,
+        155.0,
+        88.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 12,
+      "crop": "database/sessions/hollow3/crop_12.png",
+      "mask": "database/sessions/hollow3/mask_12.npy",
+      "bbox": [
+        316.0,
+        541.0,
+        152.0,
+        100.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 13,
+      "crop": "database/sessions/hollow3/crop_13.png",
+      "mask": "database/sessions/hollow3/mask_13.npy",
+      "bbox": [
+        624.0,
+        302.0,
+        164.0,
+        140.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 14,
+      "crop": "database/sessions/hollow3/crop_14.png",
+      "mask": "database/sessions/hollow3/mask_14.npy",
+      "bbox": [
+        409.0,
+        0.0,
+        69.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 15,
+      "crop": "database/sessions/hollow3/crop_15.png",
+      "mask": "database/sessions/hollow3/mask_15.npy",
+      "bbox": [
+        484.0,
+        61.0,
+        216.0,
+        150.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 16,
+      "crop": "database/sessions/hollow3/crop_16.png",
+      "mask": "database/sessions/hollow3/mask_16.npy",
+      "bbox": [
+        136.0,
+        553.0,
+        158.0,
+        64.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 17,
+      "crop": "database/sessions/hollow3/crop_17.png",
+      "mask": "database/sessions/hollow3/mask_17.npy",
+      "bbox": [
+        0.0,
+        442.0,
+        114.0,
+        218.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 18,
+      "crop": "database/sessions/hollow3/crop_18.png",
+      "mask": "database/sessions/hollow3/mask_18.npy",
+      "bbox": [
+        130.0,
+        500.0,
+        98.0,
+        67.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 19,
+      "crop": "database/sessions/hollow3/crop_19.png",
+      "mask": "database/sessions/hollow3/mask_19.npy",
+      "bbox": [
+        55.0,
+        305.0,
+        70.0,
+        33.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 20,
+      "crop": "database/sessions/hollow3/crop_20.png",
+      "mask": "database/sessions/hollow3/mask_20.npy",
+      "bbox": [
+        309.0,
+        532.0,
+        74.0,
+        44.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 21,
+      "crop": "database/sessions/hollow3/crop_21.png",
+      "mask": "database/sessions/hollow3/mask_21.npy",
+      "bbox": [
+        277.0,
+        0.0,
+        48.0,
+        29.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 22,
+      "crop": "database/sessions/hollow3/crop_22.png",
+      "mask": "database/sessions/hollow3/mask_22.npy",
+      "bbox": [
+        360.0,
+        393.0,
+        141.0,
+        153.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 23,
+      "crop": "database/sessions/hollow3/crop_23.png",
+      "mask": "database/sessions/hollow3/mask_23.npy",
+      "bbox": [
+        682.0,
+        55.0,
+        109.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 24,
+      "crop": "database/sessions/hollow3/crop_24.png",
+      "mask": "database/sessions/hollow3/mask_24.npy",
+      "bbox": [
+        542.0,
+        0.0,
+        52.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 25,
+      "crop": "database/sessions/hollow3/crop_25.png",
+      "mask": "database/sessions/hollow3/mask_25.npy",
+      "bbox": [
+        441.0,
+        303.0,
+        99.0,
+        109.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 26,
+      "crop": "database/sessions/hollow3/crop_26.png",
+      "mask": "database/sessions/hollow3/mask_26.npy",
+      "bbox": [
+        488.0,
+        26.0,
+        133.0,
+        86.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 27,
+      "crop": "database/sessions/hollow3/crop_27.png",
+      "mask": "database/sessions/hollow3/mask_27.npy",
+      "bbox": [
+        388.0,
+        212.0,
+        80.0,
+        69.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 28,
+      "crop": "database/sessions/hollow3/crop_28.png",
+      "mask": "database/sessions/hollow3/mask_28.npy",
+      "bbox": [
+        0.0,
+        16.0,
+        156.0,
+        105.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 29,
+      "crop": "database/sessions/hollow3/crop_29.png",
+      "mask": "database/sessions/hollow3/mask_29.npy",
+      "bbox": [
+        716.0,
+        448.0,
+        95.0,
+        211.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 30,
+      "crop": "database/sessions/hollow3/crop_30.png",
+      "mask": "database/sessions/hollow3/mask_30.npy",
+      "bbox": [
+        494.0,
+        454.0,
+        206.0,
+        20.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 31,
+      "crop": "database/sessions/hollow3/crop_31.png",
+      "mask": "database/sessions/hollow3/mask_31.npy",
+      "bbox": [
+        35.0,
+        86.0,
+        82.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 32,
+      "crop": "database/sessions/hollow3/crop_32.png",
+      "mask": "database/sessions/hollow3/mask_32.npy",
+      "bbox": [
+        331.0,
+        133.0,
+        209.0,
+        93.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 33,
+      "crop": "database/sessions/hollow3/crop_33.png",
+      "mask": "database/sessions/hollow3/mask_33.npy",
+      "bbox": [
+        12.0,
+        407.0,
+        119.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 34,
+      "crop": "database/sessions/hollow3/crop_34.png",
+      "mask": "database/sessions/hollow3/mask_34.npy",
+      "bbox": [
+        0.0,
+        0.0,
+        410.0,
+        121.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 35,
+      "crop": "database/sessions/hollow3/crop_35.png",
+      "mask": "database/sessions/hollow3/mask_35.npy",
+      "bbox": [
+        519.0,
+        166.0,
+        195.0,
+        64.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 36,
+      "crop": "database/sessions/hollow3/crop_36.png",
+      "mask": "database/sessions/hollow3/mask_36.npy",
+      "bbox": [
+        331.0,
+        0.0,
+        78.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 37,
+      "crop": "database/sessions/hollow3/crop_37.png",
+      "mask": "database/sessions/hollow3/mask_37.npy",
+      "bbox": [
+        28.0,
+        437.0,
+        52.0,
+        61.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 38,
+      "crop": "database/sessions/hollow3/crop_38.png",
+      "mask": "database/sessions/hollow3/mask_38.npy",
+      "bbox": [
+        582.0,
+        673.0,
+        84.0,
+        51.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 39,
+      "crop": "database/sessions/hollow3/crop_39.png",
+      "mask": "database/sessions/hollow3/mask_39.npy",
+      "bbox": [
+        146.0,
+        416.0,
+        190.0,
+        147.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 40,
+      "crop": "database/sessions/hollow3/crop_40.png",
+      "mask": "database/sessions/hollow3/mask_40.npy",
+      "bbox": [
+        510.0,
+        583.0,
+        87.0,
+        62.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 41,
+      "crop": "database/sessions/hollow3/crop_41.png",
+      "mask": "database/sessions/hollow3/mask_41.npy",
+      "bbox": [
+        743.0,
+        4.0,
+        62.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 42,
+      "crop": "database/sessions/hollow3/crop_42.png",
+      "mask": "database/sessions/hollow3/mask_42.npy",
+      "bbox": [
+        792.0,
+        64.0,
+        101.0,
+        58.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 43,
+      "crop": "database/sessions/hollow3/crop_43.png",
+      "mask": "database/sessions/hollow3/mask_43.npy",
+      "bbox": [
+        624.0,
+        0.0,
+        129.0,
+        56.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 44,
+      "crop": "database/sessions/hollow3/crop_44.png",
+      "mask": "database/sessions/hollow3/mask_44.npy",
+      "bbox": [
+        747.0,
+        189.0,
+        47.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 45,
+      "crop": "database/sessions/hollow3/crop_45.png",
+      "mask": "database/sessions/hollow3/mask_45.npy",
+      "bbox": [
+        423.0,
+        49.0,
+        56.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 46,
+      "crop": "database/sessions/hollow3/crop_46.png",
+      "mask": "database/sessions/hollow3/mask_46.npy",
+      "bbox": [
+        91.0,
+        256.0,
+        112.0,
+        61.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 47,
+      "crop": "database/sessions/hollow3/crop_47.png",
+      "mask": "database/sessions/hollow3/mask_47.npy",
+      "bbox": [
+        483.0,
+        585.0,
+        27.0,
+        38.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 48,
+      "crop": "database/sessions/hollow3/crop_48.png",
+      "mask": "database/sessions/hollow3/mask_48.npy",
+      "bbox": [
+        712.0,
+        172.0,
+        83.0,
+        144.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 49,
+      "crop": "database/sessions/hollow3/crop_49.png",
+      "mask": "database/sessions/hollow3/mask_49.npy",
+      "bbox": [
+        411.0,
+        62.0,
+        376.0,
+        378.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 50,
+      "crop": "database/sessions/hollow3/crop_50.png",
+      "mask": "database/sessions/hollow3/mask_50.npy",
+      "bbox": [
+        588.0,
+        403.0,
+        66.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 51,
+      "crop": "database/sessions/hollow3/crop_51.png",
+      "mask": "database/sessions/hollow3/mask_51.npy",
+      "bbox": [
+        245.0,
+        332.0,
+        164.0,
+        53.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 52,
+      "crop": "database/sessions/hollow3/crop_52.png",
+      "mask": "database/sessions/hollow3/mask_52.npy",
+      "bbox": [
+        810.0,
+        244.0,
+        48.0,
+        42.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 53,
+      "crop": "database/sessions/hollow3/crop_53.png",
+      "mask": "database/sessions/hollow3/mask_53.npy",
+      "bbox": [
+        15.0,
+        607.0,
+        71.0,
+        66.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 54,
+      "crop": "database/sessions/hollow3/crop_54.png",
+      "mask": "database/sessions/hollow3/mask_54.npy",
+      "bbox": [
+        474.0,
+        0.0,
+        68.0,
+        47.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 55,
+      "crop": "database/sessions/hollow3/crop_55.png",
+      "mask": "database/sessions/hollow3/mask_55.npy",
+      "bbox": [
+        293.0,
+        383.0,
+        124.0,
+        70.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 56,
+      "crop": "database/sessions/hollow3/crop_56.png",
+      "mask": "database/sessions/hollow3/mask_56.npy",
+      "bbox": [
+        693.0,
+        110.0,
+        51.0,
+        33.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 57,
+      "crop": "database/sessions/hollow3/crop_57.png",
+      "mask": "database/sessions/hollow3/mask_57.npy",
+      "bbox": [
+        134.0,
+        408.0,
+        57.0,
+        20.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 58,
+      "crop": "database/sessions/hollow3/crop_58.png",
+      "mask": "database/sessions/hollow3/mask_58.npy",
+      "bbox": [
+        12.0,
+        405.0,
+        178.0,
+        62.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 59,
+      "crop": "database/sessions/hollow3/crop_59.png",
+      "mask": "database/sessions/hollow3/mask_59.npy",
+      "bbox": [
+        361.0,
+        400.0,
+        125.0,
+        91.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 60,
+      "crop": "database/sessions/hollow3/crop_60.png",
+      "mask": "database/sessions/hollow3/mask_60.npy",
+      "bbox": [
+        244.0,
+        257.0,
+        135.0,
+        39.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 61,
+      "crop": "database/sessions/hollow3/crop_61.png",
+      "mask": "database/sessions/hollow3/mask_61.npy",
+      "bbox": [
+        648.0,
+        473.0,
+        83.0,
+        66.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 62,
+      "crop": "database/sessions/hollow3/crop_62.png",
+      "mask": "database/sessions/hollow3/mask_62.npy",
+      "bbox": [
+        728.0,
+        471.0,
+        66.0,
+        162.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 63,
+      "crop": "database/sessions/hollow3/crop_63.png",
+      "mask": "database/sessions/hollow3/mask_63.npy",
+      "bbox": [
+        257.0,
+        476.0,
+        41.0,
+        76.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 64,
+      "crop": "database/sessions/hollow3/crop_64.png",
+      "mask": "database/sessions/hollow3/mask_64.npy",
+      "bbox": [
+        231.0,
+        348.0,
+        182.0,
+        76.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 65,
+      "crop": "database/sessions/hollow3/crop_65.png",
+      "mask": "database/sessions/hollow3/mask_65.npy",
+      "bbox": [
+        258.0,
+        474.0,
+        111.0,
+        79.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 66,
+      "crop": "database/sessions/hollow3/crop_66.png",
+      "mask": "database/sessions/hollow3/mask_66.npy",
+      "bbox": [
+        0.0,
+        215.0,
+        104.0,
+        33.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 67,
+      "crop": "database/sessions/hollow3/crop_67.png",
+      "mask": "database/sessions/hollow3/mask_67.npy",
+      "bbox": [
+        706.0,
+        151.0,
+        35.0,
+        27.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 68,
+      "crop": "database/sessions/hollow3/crop_68.png",
+      "mask": "database/sessions/hollow3/mask_68.npy",
+      "bbox": [
+        243.0,
+        361.0,
+        74.0,
+        24.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 69,
+      "crop": "database/sessions/hollow3/crop_69.png",
+      "mask": "database/sessions/hollow3/mask_69.npy",
+      "bbox": [
+        411.0,
+        236.0,
+        381.0,
+        205.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 70,
+      "crop": "database/sessions/hollow3/crop_70.png",
+      "mask": "database/sessions/hollow3/mask_70.npy",
+      "bbox": [
+        275.0,
+        163.0,
+        56.0,
+        56.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 71,
+      "crop": "database/sessions/hollow3/crop_71.png",
+      "mask": "database/sessions/hollow3/mask_71.npy",
+      "bbox": [
+        685.0,
+        652.0,
+        64.0,
+        52.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 72,
+      "crop": "database/sessions/hollow3/crop_72.png",
+      "mask": "database/sessions/hollow3/mask_72.npy",
+      "bbox": [
+        123.0,
+        383.0,
+        85.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 73,
+      "crop": "database/sessions/hollow3/crop_73.png",
+      "mask": "database/sessions/hollow3/mask_73.npy",
+      "bbox": [
+        163.0,
+        83.0,
+        176.0,
+        214.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 74,
+      "crop": "database/sessions/hollow3/crop_74.png",
+      "mask": "database/sessions/hollow3/mask_74.npy",
+      "bbox": [
+        275.0,
+        157.0,
+        100.0,
+        62.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 75,
+      "crop": "database/sessions/hollow3/crop_75.png",
+      "mask": "database/sessions/hollow3/mask_75.npy",
+      "bbox": [
+        0.0,
+        137.0,
+        145.0,
+        119.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 76,
+      "crop": "database/sessions/hollow3/crop_76.png",
+      "mask": "database/sessions/hollow3/mask_76.npy",
+      "bbox": [
+        475.0,
+        25.0,
+        204.0,
+        88.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 77,
+      "crop": "database/sessions/hollow3/crop_77.png",
+      "mask": "database/sessions/hollow3/mask_77.npy",
+      "bbox": [
+        647.0,
+        249.0,
+        84.0,
+        66.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 78,
+      "crop": "database/sessions/hollow3/crop_78.png",
+      "mask": "database/sessions/hollow3/mask_78.npy",
+      "bbox": [
+        445.0,
+        132.0,
+        96.0,
+        95.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 79,
+      "crop": "database/sessions/hollow3/crop_79.png",
+      "mask": "database/sessions/hollow3/mask_79.npy",
+      "bbox": [
+        140.0,
+        541.0,
+        329.0,
+        101.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 80,
+      "crop": "database/sessions/hollow3/crop_80.png",
+      "mask": "database/sessions/hollow3/mask_80.npy",
+      "bbox": [
+        744.0,
+        446.0,
+        44.0,
+        32.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 81,
+      "crop": "database/sessions/hollow3/crop_81.png",
+      "mask": "database/sessions/hollow3/mask_81.npy",
+      "bbox": [
+        15.0,
+        607.0,
+        79.0,
+        93.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 82,
+      "crop": "database/sessions/hollow3/crop_82.png",
+      "mask": "database/sessions/hollow3/mask_82.npy",
+      "bbox": [
+        206.0,
+        349.0,
+        211.0,
+        102.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 83,
+      "crop": "database/sessions/hollow3/crop_83.png",
+      "mask": "database/sessions/hollow3/mask_83.npy",
+      "bbox": [
+        494.0,
+        454.0,
+        207.0,
+        34.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 84,
+      "crop": "database/sessions/hollow3/crop_84.png",
+      "mask": "database/sessions/hollow3/mask_84.npy",
+      "bbox": [
+        722.0,
+        179.0,
+        129.0,
+        212.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 85,
+      "crop": "database/sessions/hollow3/crop_85.png",
+      "mask": "database/sessions/hollow3/mask_85.npy",
+      "bbox": [
+        297.0,
+        576.0,
+        29.0,
+        54.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 86,
+      "crop": "database/sessions/hollow3/crop_86.png",
+      "mask": "database/sessions/hollow3/mask_86.npy",
+      "bbox": [
+        0.0,
+        521.0,
+        113.0,
+        135.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 87,
+      "crop": "database/sessions/hollow3/crop_87.png",
+      "mask": "database/sessions/hollow3/mask_87.npy",
+      "bbox": [
+        276.0,
+        121.0,
+        71.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 88,
+      "crop": "database/sessions/hollow3/crop_88.png",
+      "mask": "database/sessions/hollow3/mask_88.npy",
+      "bbox": [
+        194.0,
+        485.0,
+        46.0,
+        51.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 89,
+      "crop": "database/sessions/hollow3/crop_89.png",
+      "mask": "database/sessions/hollow3/mask_89.npy",
+      "bbox": [
+        340.0,
+        206.0,
+        129.0,
+        75.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 90,
+      "crop": "database/sessions/hollow3/crop_90.png",
+      "mask": "database/sessions/hollow3/mask_90.npy",
+      "bbox": [
+        661.0,
+        708.0,
+        28.0,
+        25.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 91,
+      "crop": "database/sessions/hollow3/crop_91.png",
+      "mask": "database/sessions/hollow3/mask_91.npy",
+      "bbox": [
+        529.0,
+        921.0,
+        264.0,
+        198.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 92,
+      "crop": "database/sessions/hollow3/crop_92.png",
+      "mask": "database/sessions/hollow3/mask_92.npy",
+      "bbox": [
+        208.0,
+        792.0,
+        228.0,
+        232.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 93,
+      "crop": "database/sessions/hollow3/crop_93.png",
+      "mask": "database/sessions/hollow3/mask_93.npy",
+      "bbox": [
+        141.0,
+        897.0,
+        94.0,
+        139.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 94,
+      "crop": "database/sessions/hollow3/crop_94.png",
+      "mask": "database/sessions/hollow3/mask_94.npy",
+      "bbox": [
+        447.0,
+        643.0,
+        125.0,
+        239.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 95,
+      "crop": "database/sessions/hollow3/crop_95.png",
+      "mask": "database/sessions/hollow3/mask_95.npy",
+      "bbox": [
+        373.0,
+        619.0,
+        117.0,
+        327.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 96,
+      "crop": "database/sessions/hollow3/crop_96.png",
+      "mask": "database/sessions/hollow3/mask_96.npy",
+      "bbox": [
+        152.0,
+        979.0,
+        63.0,
+        56.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 97,
+      "crop": "database/sessions/hollow3/crop_97.png",
+      "mask": "database/sessions/hollow3/mask_97.npy",
+      "bbox": [
+        748.0,
+        725.0,
+        53.0,
+        45.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 98,
+      "crop": "database/sessions/hollow3/crop_98.png",
+      "mask": "database/sessions/hollow3/mask_98.npy",
+      "bbox": [
+        469.0,
+        813.0,
+        106.0,
+        182.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 99,
+      "crop": "database/sessions/hollow3/crop_99.png",
+      "mask": "database/sessions/hollow3/mask_99.npy",
+      "bbox": [
+        5.0,
+        742.0,
+        89.0,
+        195.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 100,
+      "crop": "database/sessions/hollow3/crop_100.png",
+      "mask": "database/sessions/hollow3/mask_100.npy",
+      "bbox": [
+        562.0,
+        898.0,
+        66.0,
+        48.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 101,
+      "crop": "database/sessions/hollow3/crop_101.png",
+      "mask": "database/sessions/hollow3/mask_101.npy",
+      "bbox": [
+        0.0,
+        687.0,
+        137.0,
+        109.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 102,
+      "crop": "database/sessions/hollow3/crop_102.png",
+      "mask": "database/sessions/hollow3/mask_102.npy",
+      "bbox": [
+        601.0,
+        832.0,
+        44.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 103,
+      "crop": "database/sessions/hollow3/crop_103.png",
+      "mask": "database/sessions/hollow3/mask_103.npy",
+      "bbox": [
+        84.0,
+        928.0,
+        49.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 104,
+      "crop": "database/sessions/hollow3/crop_104.png",
+      "mask": "database/sessions/hollow3/mask_104.npy",
+      "bbox": [
+        135.0,
+        586.0,
+        195.0,
+        181.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 105,
+      "crop": "database/sessions/hollow3/crop_105.png",
+      "mask": "database/sessions/hollow3/mask_105.npy",
+      "bbox": [
+        344.0,
+        746.0,
+        55.0,
+        60.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 106,
+      "crop": "database/sessions/hollow3/crop_106.png",
+      "mask": "database/sessions/hollow3/mask_106.npy",
+      "bbox": [
+        528.0,
+        707.0,
+        266.0,
+        412.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 107,
+      "crop": "database/sessions/hollow3/crop_107.png",
+      "mask": "database/sessions/hollow3/mask_107.npy",
+      "bbox": [
+        198.0,
+        774.0,
+        147.0,
+        48.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 108,
+      "crop": "database/sessions/hollow3/crop_108.png",
+      "mask": "database/sessions/hollow3/mask_108.npy",
+      "bbox": [
+        810.0,
+        676.0,
+        60.0,
+        110.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 109,
+      "crop": "database/sessions/hollow3/crop_109.png",
+      "mask": "database/sessions/hollow3/mask_109.npy",
+      "bbox": [
+        528.0,
+        942.0,
+        29.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 110,
+      "crop": "database/sessions/hollow3/crop_110.png",
+      "mask": "database/sessions/hollow3/mask_110.npy",
+      "bbox": [
+        529.0,
+        644.0,
+        53.0,
+        29.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 111,
+      "crop": "database/sessions/hollow3/crop_111.png",
+      "mask": "database/sessions/hollow3/mask_111.npy",
+      "bbox": [
+        83.0,
+        743.0,
+        125.0,
+        242.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 112,
+      "crop": "database/sessions/hollow3/crop_112.png",
+      "mask": "database/sessions/hollow3/mask_112.npy",
+      "bbox": [
+        186.0,
+        731.0,
+        157.0,
+        53.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 113,
+      "crop": "database/sessions/hollow3/crop_113.png",
+      "mask": "database/sessions/hollow3/mask_113.npy",
+      "bbox": [
+        338.0,
+        466.0,
+        46.0,
+        55.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 114,
+      "crop": "database/sessions/hollow3/crop_114.png",
+      "mask": "database/sessions/hollow3/mask_114.npy",
+      "bbox": [
+        635.0,
+        892.0,
+        31.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 115,
+      "crop": "database/sessions/hollow3/crop_115.png",
+      "mask": "database/sessions/hollow3/mask_115.npy",
+      "bbox": [
+        208.0,
+        726.0,
+        283.0,
+        299.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 116,
+      "crop": "database/sessions/hollow3/crop_116.png",
+      "mask": "database/sessions/hollow3/mask_116.npy",
+      "bbox": [
+        428.0,
+        623.0,
+        20.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 117,
+      "crop": "database/sessions/hollow3/crop_117.png",
+      "mask": "database/sessions/hollow3/mask_117.npy",
+      "bbox": [
+        157.0,
+        897.0,
+        74.0,
+        38.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 118,
+      "crop": "database/sessions/hollow3/crop_118.png",
+      "mask": "database/sessions/hollow3/mask_118.npy",
+      "bbox": [
+        292.0,
+        555.0,
+        34.0,
+        75.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 119,
+      "crop": "database/sessions/hollow3/crop_119.png",
+      "mask": "database/sessions/hollow3/mask_119.npy",
+      "bbox": [
+        128.0,
+        743.0,
+        32.0,
+        52.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 120,
+      "crop": "database/sessions/hollow3/crop_120.png",
+      "mask": "database/sessions/hollow3/mask_120.npy",
+      "bbox": [
+        474.0,
+        422.0,
+        30.0,
+        57.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 121,
+      "crop": "database/sessions/hollow3/crop_121.png",
+      "mask": "database/sessions/hollow3/mask_121.npy",
+      "bbox": [
+        332.0,
+        643.0,
+        66.0,
+        161.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 122,
+      "crop": "database/sessions/hollow3/crop_122.png",
+      "mask": "database/sessions/hollow3/mask_122.npy",
+      "bbox": [
+        85.0,
+        803.0,
+        116.0,
+        158.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 123,
+      "crop": "database/sessions/hollow3/crop_123.png",
+      "mask": "database/sessions/hollow3/mask_123.npy",
+      "bbox": [
+        282.0,
+        490.0,
+        87.0,
+        62.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 124,
+      "crop": "database/sessions/hollow3/crop_124.png",
+      "mask": "database/sessions/hollow3/mask_124.npy",
+      "bbox": [
+        129.0,
+        554.0,
+        213.0,
+        257.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 125,
+      "crop": "database/sessions/hollow3/crop_125.png",
+      "mask": "database/sessions/hollow3/mask_125.npy",
+      "bbox": [
+        113.0,
+        384.0,
+        94.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 126,
+      "crop": "database/sessions/hollow3/crop_126.png",
+      "mask": "database/sessions/hollow3/mask_126.npy",
+      "bbox": [
+        0.0,
+        687.0,
+        232.0,
+        139.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 127,
+      "crop": "database/sessions/hollow3/crop_127.png",
+      "mask": "database/sessions/hollow3/mask_127.npy",
+      "bbox": [
+        803.0,
+        388.0,
+        331.0,
+        110.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 128,
+      "crop": "database/sessions/hollow3/crop_128.png",
+      "mask": "database/sessions/hollow3/mask_128.npy",
+      "bbox": [
+        1048.0,
+        378.0,
+        183.0,
+        141.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 129,
+      "crop": "database/sessions/hollow3/crop_129.png",
+      "mask": "database/sessions/hollow3/mask_129.npy",
+      "bbox": [
+        1195.0,
+        224.0,
+        123.0,
+        89.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 130,
+      "crop": "database/sessions/hollow3/crop_130.png",
+      "mask": "database/sessions/hollow3/mask_130.npy",
+      "bbox": [
+        1242.0,
+        459.0,
+        159.0,
+        136.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 131,
+      "crop": "database/sessions/hollow3/crop_131.png",
+      "mask": "database/sessions/hollow3/mask_131.npy",
+      "bbox": [
+        1280.0,
+        483.0,
+        121.0,
+        111.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 132,
+      "crop": "database/sessions/hollow3/crop_132.png",
+      "mask": "database/sessions/hollow3/mask_132.npy",
+      "bbox": [
+        844.0,
+        120.0,
+        140.0,
+        78.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 133,
+      "crop": "database/sessions/hollow3/crop_133.png",
+      "mask": "database/sessions/hollow3/mask_133.npy",
+      "bbox": [
+        997.0,
+        137.0,
+        55.0,
+        78.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 134,
+      "crop": "database/sessions/hollow3/crop_134.png",
+      "mask": "database/sessions/hollow3/mask_134.npy",
+      "bbox": [
+        1214.0,
+        357.0,
+        187.0,
+        45.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 135,
+      "crop": "database/sessions/hollow3/crop_135.png",
+      "mask": "database/sessions/hollow3/mask_135.npy",
+      "bbox": [
+        1285.0,
+        570.0,
+        116.0,
+        74.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 136,
+      "crop": "database/sessions/hollow3/crop_136.png",
+      "mask": "database/sessions/hollow3/mask_136.npy",
+      "bbox": [
+        1236.0,
+        436.0,
+        165.0,
+        80.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 137,
+      "crop": "database/sessions/hollow3/crop_137.png",
+      "mask": "database/sessions/hollow3/mask_137.npy",
+      "bbox": [
+        1302.0,
+        401.0,
+        99.0,
+        42.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 138,
+      "crop": "database/sessions/hollow3/crop_138.png",
+      "mask": "database/sessions/hollow3/mask_138.npy",
+      "bbox": [
+        987.0,
+        93.0,
+        167.0,
+        77.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 139,
+      "crop": "database/sessions/hollow3/crop_139.png",
+      "mask": "database/sessions/hollow3/mask_139.npy",
+      "bbox": [
+        794.0,
+        187.0,
+        297.0,
+        78.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 140,
+      "crop": "database/sessions/hollow3/crop_140.png",
+      "mask": "database/sessions/hollow3/mask_140.npy",
+      "bbox": [
+        1306.0,
+        613.0,
+        95.0,
+        76.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 141,
+      "crop": "database/sessions/hollow3/crop_141.png",
+      "mask": "database/sessions/hollow3/mask_141.npy",
+      "bbox": [
+        952.0,
+        70.0,
+        65.0,
+        64.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 142,
+      "crop": "database/sessions/hollow3/crop_142.png",
+      "mask": "database/sessions/hollow3/mask_142.npy",
+      "bbox": [
+        1107.0,
+        325.0,
+        151.0,
+        54.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 143,
+      "crop": "database/sessions/hollow3/crop_143.png",
+      "mask": "database/sessions/hollow3/mask_143.npy",
+      "bbox": [
+        847.0,
+        252.0,
+        59.0,
+        38.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 144,
+      "crop": "database/sessions/hollow3/crop_144.png",
+      "mask": "database/sessions/hollow3/mask_144.npy",
+      "bbox": [
+        1209.0,
+        454.0,
+        88.0,
+        87.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 145,
+      "crop": "database/sessions/hollow3/crop_145.png",
+      "mask": "database/sessions/hollow3/mask_145.npy",
+      "bbox": [
+        1312.0,
+        114.0,
+        74.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 146,
+      "crop": "database/sessions/hollow3/crop_146.png",
+      "mask": "database/sessions/hollow3/mask_146.npy",
+      "bbox": [
+        1017.0,
+        216.0,
+        30.0,
+        27.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 147,
+      "crop": "database/sessions/hollow3/crop_147.png",
+      "mask": "database/sessions/hollow3/mask_147.npy",
+      "bbox": [
+        689.0,
+        339.0,
+        249.0,
+        188.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 148,
+      "crop": "database/sessions/hollow3/crop_148.png",
+      "mask": "database/sessions/hollow3/mask_148.npy",
+      "bbox": [
+        987.0,
+        231.0,
+        172.0,
+        101.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 149,
+      "crop": "database/sessions/hollow3/crop_149.png",
+      "mask": "database/sessions/hollow3/mask_149.npy",
+      "bbox": [
+        1229.0,
+        0.0,
+        172.0,
+        29.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 150,
+      "crop": "database/sessions/hollow3/crop_150.png",
+      "mask": "database/sessions/hollow3/mask_150.npy",
+      "bbox": [
+        1193.0,
+        200.0,
+        45.0,
+        42.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 151,
+      "crop": "database/sessions/hollow3/crop_151.png",
+      "mask": "database/sessions/hollow3/mask_151.npy",
+      "bbox": [
+        1127.0,
+        172.0,
+        274.0,
+        84.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 152,
+      "crop": "database/sessions/hollow3/crop_152.png",
+      "mask": "database/sessions/hollow3/mask_152.npy",
+      "bbox": [
+        1324.0,
+        244.0,
+        66.0,
+        108.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 153,
+      "crop": "database/sessions/hollow3/crop_153.png",
+      "mask": "database/sessions/hollow3/mask_153.npy",
+      "bbox": [
+        783.0,
+        164.0,
+        48.0,
+        24.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 154,
+      "crop": "database/sessions/hollow3/crop_154.png",
+      "mask": "database/sessions/hollow3/mask_154.npy",
+      "bbox": [
+        865.0,
+        657.0,
+        84.0,
+        68.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 155,
+      "crop": "database/sessions/hollow3/crop_155.png",
+      "mask": "database/sessions/hollow3/mask_155.npy",
+      "bbox": [
+        983.0,
+        475.0,
+        96.0,
+        186.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 156,
+      "crop": "database/sessions/hollow3/crop_156.png",
+      "mask": "database/sessions/hollow3/mask_156.npy",
+      "bbox": [
+        896.0,
+        255.0,
+        55.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 157,
+      "crop": "database/sessions/hollow3/crop_157.png",
+      "mask": "database/sessions/hollow3/mask_157.npy",
+      "bbox": [
+        663.0,
+        514.0,
+        37.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 158,
+      "crop": "database/sessions/hollow3/crop_158.png",
+      "mask": "database/sessions/hollow3/mask_158.npy",
+      "bbox": [
+        962.0,
+        320.0,
+        169.0,
+        70.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 159,
+      "crop": "database/sessions/hollow3/crop_159.png",
+      "mask": "database/sessions/hollow3/mask_159.npy",
+      "bbox": [
+        1227.0,
+        19.0,
+        48.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 160,
+      "crop": "database/sessions/hollow3/crop_160.png",
+      "mask": "database/sessions/hollow3/mask_160.npy",
+      "bbox": [
+        1171.0,
+        367.0,
+        74.0,
+        84.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 161,
+      "crop": "database/sessions/hollow3/crop_161.png",
+      "mask": "database/sessions/hollow3/mask_161.npy",
+      "bbox": [
+        981.0,
+        67.0,
+        124.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 162,
+      "crop": "database/sessions/hollow3/crop_162.png",
+      "mask": "database/sessions/hollow3/mask_162.npy",
+      "bbox": [
+        794.0,
+        199.0,
+        29.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 163,
+      "crop": "database/sessions/hollow3/crop_163.png",
+      "mask": "database/sessions/hollow3/mask_163.npy",
+      "bbox": [
+        1298.0,
+        296.0,
+        31.0,
+        35.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 164,
+      "crop": "database/sessions/hollow3/crop_164.png",
+      "mask": "database/sessions/hollow3/mask_164.npy",
+      "bbox": [
+        893.0,
+        67.0,
+        63.0,
+        58.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 165,
+      "crop": "database/sessions/hollow3/crop_165.png",
+      "mask": "database/sessions/hollow3/mask_165.npy",
+      "bbox": [
+        1230.0,
+        384.0,
+        52.0,
+        52.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 166,
+      "crop": "database/sessions/hollow3/crop_166.png",
+      "mask": "database/sessions/hollow3/mask_166.npy",
+      "bbox": [
+        1042.0,
+        145.0,
+        87.0,
+        81.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 167,
+      "crop": "database/sessions/hollow3/crop_167.png",
+      "mask": "database/sessions/hollow3/mask_167.npy",
+      "bbox": [
+        1056.0,
+        539.0,
+        28.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 168,
+      "crop": "database/sessions/hollow3/crop_168.png",
+      "mask": "database/sessions/hollow3/mask_168.npy",
+      "bbox": [
+        1262.0,
+        189.0,
+        75.0,
+        63.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 169,
+      "crop": "database/sessions/hollow3/crop_169.png",
+      "mask": "database/sessions/hollow3/mask_169.npy",
+      "bbox": [
+        1239.0,
+        520.0,
+        68.0,
+        104.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 170,
+      "crop": "database/sessions/hollow3/crop_170.png",
+      "mask": "database/sessions/hollow3/mask_170.npy",
+      "bbox": [
+        1038.0,
+        287.0,
+        196.0,
+        60.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 171,
+      "crop": "database/sessions/hollow3/crop_171.png",
+      "mask": "database/sessions/hollow3/mask_171.npy",
+      "bbox": [
+        1235.0,
+        612.0,
+        143.0,
+        125.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 172,
+      "crop": "database/sessions/hollow3/crop_172.png",
+      "mask": "database/sessions/hollow3/mask_172.npy",
+      "bbox": [
+        1252.0,
+        5.0,
+        149.0,
+        80.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 173,
+      "crop": "database/sessions/hollow3/crop_173.png",
+      "mask": "database/sessions/hollow3/mask_173.npy",
+      "bbox": [
+        1299.0,
+        434.0,
+        102.0,
+        54.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 174,
+      "crop": "database/sessions/hollow3/crop_174.png",
+      "mask": "database/sessions/hollow3/mask_174.npy",
+      "bbox": [
+        841.0,
+        290.0,
+        44.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 175,
+      "crop": "database/sessions/hollow3/crop_175.png",
+      "mask": "database/sessions/hollow3/mask_175.npy",
+      "bbox": [
+        1120.0,
+        194.0,
+        42.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 176,
+      "crop": "database/sessions/hollow3/crop_176.png",
+      "mask": "database/sessions/hollow3/mask_176.npy",
+      "bbox": [
+        1179.0,
+        119.0,
+        70.0,
+        23.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 177,
+      "crop": "database/sessions/hollow3/crop_177.png",
+      "mask": "database/sessions/hollow3/mask_177.npy",
+      "bbox": [
+        1207.0,
+        150.0,
+        65.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 178,
+      "crop": "database/sessions/hollow3/crop_178.png",
+      "mask": "database/sessions/hollow3/mask_178.npy",
+      "bbox": [
+        1079.0,
+        0.0,
+        161.0,
+        84.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 179,
+      "crop": "database/sessions/hollow3/crop_179.png",
+      "mask": "database/sessions/hollow3/mask_179.npy",
+      "bbox": [
+        879.0,
+        509.0,
+        52.0,
+        26.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 180,
+      "crop": "database/sessions/hollow3/crop_180.png",
+      "mask": "database/sessions/hollow3/mask_180.npy",
+      "bbox": [
+        889.0,
+        464.0,
+        103.0,
+        111.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 181,
+      "crop": "database/sessions/hollow3/crop_181.png",
+      "mask": "database/sessions/hollow3/mask_181.npy",
+      "bbox": [
+        803.0,
+        499.0,
+        354.0,
+        261.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 182,
+      "crop": "database/sessions/hollow3/crop_182.png",
+      "mask": "database/sessions/hollow3/mask_182.npy",
+      "bbox": [
+        1292.0,
+        659.0,
+        86.0,
+        77.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 183,
+      "crop": "database/sessions/hollow3/crop_183.png",
+      "mask": "database/sessions/hollow3/mask_183.npy",
+      "bbox": [
+        1262.0,
+        204.0,
+        62.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 184,
+      "crop": "database/sessions/hollow3/crop_184.png",
+      "mask": "database/sessions/hollow3/mask_184.npy",
+      "bbox": [
+        656.0,
+        215.0,
+        60.0,
+        32.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 185,
+      "crop": "database/sessions/hollow3/crop_185.png",
+      "mask": "database/sessions/hollow3/mask_185.npy",
+      "bbox": [
+        935.0,
+        350.0,
+        45.0,
+        53.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 186,
+      "crop": "database/sessions/hollow3/crop_186.png",
+      "mask": "database/sessions/hollow3/mask_186.npy",
+      "bbox": [
+        1372.0,
+        19.0,
+        29.0,
+        65.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 187,
+      "crop": "database/sessions/hollow3/crop_187.png",
+      "mask": "database/sessions/hollow3/mask_187.npy",
+      "bbox": [
+        802.0,
+        0.0,
+        152.0,
+        62.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 188,
+      "crop": "database/sessions/hollow3/crop_188.png",
+      "mask": "database/sessions/hollow3/mask_188.npy",
+      "bbox": [
+        1054.0,
+        538.0,
+        31.0,
+        64.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 189,
+      "crop": "database/sessions/hollow3/crop_189.png",
+      "mask": "database/sessions/hollow3/mask_189.npy",
+      "bbox": [
+        1194.0,
+        224.0,
+        136.0,
+        136.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 190,
+      "crop": "database/sessions/hollow3/crop_190.png",
+      "mask": "database/sessions/hollow3/mask_190.npy",
+      "bbox": [
+        1225.0,
+        480.0,
+        72.0,
+        61.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 191,
+      "crop": "database/sessions/hollow3/crop_191.png",
+      "mask": "database/sessions/hollow3/mask_191.npy",
+      "bbox": [
+        1214.0,
+        357.0,
+        187.0,
+        79.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 192,
+      "crop": "database/sessions/hollow3/crop_192.png",
+      "mask": "database/sessions/hollow3/mask_192.npy",
+      "bbox": [
+        787.0,
+        0.0,
+        455.0,
+        84.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 193,
+      "crop": "database/sessions/hollow3/crop_193.png",
+      "mask": "database/sessions/hollow3/mask_193.npy",
+      "bbox": [
+        1234.0,
+        289.0,
+        95.0,
+        73.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 194,
+      "crop": "database/sessions/hollow3/crop_194.png",
+      "mask": "database/sessions/hollow3/mask_194.npy",
+      "bbox": [
+        1042.0,
+        146.0,
+        126.0,
+        89.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 195,
+      "crop": "database/sessions/hollow3/crop_195.png",
+      "mask": "database/sessions/hollow3/mask_195.npy",
+      "bbox": [
+        1077.0,
+        380.0,
+        154.0,
+        103.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 196,
+      "crop": "database/sessions/hollow3/crop_196.png",
+      "mask": "database/sessions/hollow3/mask_196.npy",
+      "bbox": [
+        918.0,
+        464.0,
+        65.0,
+        96.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 197,
+      "crop": "database/sessions/hollow3/crop_197.png",
+      "mask": "database/sessions/hollow3/mask_197.npy",
+      "bbox": [
+        853.0,
+        255.0,
+        156.0,
+        95.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 198,
+      "crop": "database/sessions/hollow3/crop_198.png",
+      "mask": "database/sessions/hollow3/mask_198.npy",
+      "bbox": [
+        541.0,
+        0.0,
+        211.0,
+        55.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 199,
+      "crop": "database/sessions/hollow3/crop_199.png",
+      "mask": "database/sessions/hollow3/mask_199.npy",
+      "bbox": [
+        564.0,
+        707.0,
+        35.0,
+        34.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 200,
+      "crop": "database/sessions/hollow3/crop_200.png",
+      "mask": "database/sessions/hollow3/mask_200.npy",
+      "bbox": [
+        567.0,
+        706.0,
+        474.0,
+        342.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 201,
+      "crop": "database/sessions/hollow3/crop_201.png",
+      "mask": "database/sessions/hollow3/mask_201.npy",
+      "bbox": [
+        1081.0,
+        481.0,
+        164.0,
+        285.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 202,
+      "crop": "database/sessions/hollow3/crop_202.png",
+      "mask": "database/sessions/hollow3/mask_202.npy",
+      "bbox": [
+        1314.0,
+        657.0,
+        87.0,
+        284.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 203,
+      "crop": "database/sessions/hollow3/crop_203.png",
+      "mask": "database/sessions/hollow3/mask_203.npy",
+      "bbox": [
+        1012.0,
+        750.0,
+        150.0,
+        199.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 204,
+      "crop": "database/sessions/hollow3/crop_204.png",
+      "mask": "database/sessions/hollow3/mask_204.npy",
+      "bbox": [
+        820.0,
+        569.0,
+        252.0,
+        215.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 205,
+      "crop": "database/sessions/hollow3/crop_205.png",
+      "mask": "database/sessions/hollow3/mask_205.npy",
+      "bbox": [
+        846.0,
+        963.0,
+        42.0,
+        44.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 206,
+      "crop": "database/sessions/hollow3/crop_206.png",
+      "mask": "database/sessions/hollow3/mask_206.npy",
+      "bbox": [
+        1301.0,
+        709.0,
+        63.0,
+        99.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 207,
+      "crop": "database/sessions/hollow3/crop_207.png",
+      "mask": "database/sessions/hollow3/mask_207.npy",
+      "bbox": [
+        917.0,
+        715.0,
+        122.0,
+        81.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 208,
+      "crop": "database/sessions/hollow3/crop_208.png",
+      "mask": "database/sessions/hollow3/mask_208.npy",
+      "bbox": [
+        808.0,
+        500.0,
+        435.0,
+        335.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 209,
+      "crop": "database/sessions/hollow3/crop_209.png",
+      "mask": "database/sessions/hollow3/mask_209.npy",
+      "bbox": [
+        1132.0,
+        788.0,
+        31.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 210,
+      "crop": "database/sessions/hollow3/crop_210.png",
+      "mask": "database/sessions/hollow3/mask_210.npy",
+      "bbox": [
+        1158.0,
+        791.0,
+        224.0,
+        219.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 211,
+      "crop": "database/sessions/hollow3/crop_211.png",
+      "mask": "database/sessions/hollow3/mask_211.npy",
+      "bbox": [
+        936.0,
+        805.0,
+        53.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 212,
+      "crop": "database/sessions/hollow3/crop_212.png",
+      "mask": "database/sessions/hollow3/mask_212.npy",
+      "bbox": [
+        1139.0,
+        816.0,
+        59.0,
+        88.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 213,
+      "crop": "database/sessions/hollow3/crop_213.png",
+      "mask": "database/sessions/hollow3/mask_213.npy",
+      "bbox": [
+        1063.0,
+        750.0,
+        32.0,
+        27.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 214,
+      "crop": "database/sessions/hollow3/crop_214.png",
+      "mask": "database/sessions/hollow3/mask_214.npy",
+      "bbox": [
+        808.0,
+        500.0,
+        546.0,
+        500.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 215,
+      "crop": "database/sessions/hollow3/crop_215.png",
+      "mask": "database/sessions/hollow3/mask_215.npy",
+      "bbox": [
+        721.0,
+        1040.0,
+        32.0,
+        58.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 216,
+      "crop": "database/sessions/hollow3/crop_216.png",
+      "mask": "database/sessions/hollow3/mask_216.npy",
+      "bbox": [
+        1225.0,
+        766.0,
+        77.0,
+        90.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 217,
+      "crop": "database/sessions/hollow3/crop_217.png",
+      "mask": "database/sessions/hollow3/mask_217.npy",
+      "bbox": [
+        1010.0,
+        785.0,
+        26.0,
+        30.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 218,
+      "crop": "database/sessions/hollow3/crop_218.png",
+      "mask": "database/sessions/hollow3/mask_218.npy",
+      "bbox": [
+        793.0,
+        487.0,
+        32.0,
+        46.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 219,
+      "crop": "database/sessions/hollow3/crop_219.png",
+      "mask": "database/sessions/hollow3/mask_219.npy",
+      "bbox": [
+        881.0,
+        736.0,
+        103.0,
+        62.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 220,
+      "crop": "database/sessions/hollow3/crop_220.png",
+      "mask": "database/sessions/hollow3/mask_220.npy",
+      "bbox": [
+        852.0,
+        742.0,
+        188.0,
+        112.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 221,
+      "crop": "database/sessions/hollow3/crop_221.png",
+      "mask": "database/sessions/hollow3/mask_221.npy",
+      "bbox": [
+        850.0,
+        637.0,
+        98.0,
+        90.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 222,
+      "crop": "database/sessions/hollow3/crop_222.png",
+      "mask": "database/sessions/hollow3/mask_222.npy",
+      "bbox": [
+        1212.0,
+        718.0,
+        90.0,
+        56.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 223,
+      "crop": "database/sessions/hollow3/crop_223.png",
+      "mask": "database/sessions/hollow3/mask_223.npy",
+      "bbox": [
+        998.0,
+        957.0,
+        47.0,
+        61.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 224,
+      "crop": "database/sessions/hollow3/crop_224.png",
+      "mask": "database/sessions/hollow3/mask_224.npy",
+      "bbox": [
+        1277.0,
+        399.0,
+        124.0,
+        59.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 225,
+      "crop": "database/sessions/hollow3/crop_225.png",
+      "mask": "database/sessions/hollow3/mask_225.npy",
+      "bbox": [
+        721.0,
+        1039.0,
+        58.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 226,
+      "crop": "database/sessions/hollow3/crop_226.png",
+      "mask": "database/sessions/hollow3/mask_226.npy",
+      "bbox": [
+        1212.0,
+        643.0,
+        101.0,
+        131.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 227,
+      "crop": "database/sessions/hollow3/crop_227.png",
+      "mask": "database/sessions/hollow3/mask_227.npy",
+      "bbox": [
+        594.0,
+        877.0,
+        55.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 228,
+      "crop": "database/sessions/hollow3/crop_228.png",
+      "mask": "database/sessions/hollow3/mask_228.npy",
+      "bbox": [
+        840.0,
+        771.0,
+        99.0,
+        64.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 229,
+      "crop": "database/sessions/hollow3/crop_229.png",
+      "mask": "database/sessions/hollow3/mask_229.npy",
+      "bbox": [
+        820.0,
+        570.0,
+        371.0,
+        325.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 230,
+      "crop": "database/sessions/hollow3/crop_230.png",
+      "mask": "database/sessions/hollow3/mask_230.npy",
+      "bbox": [
+        1237.0,
+        558.0,
+        44.0,
+        66.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 231,
+      "crop": "database/sessions/hollow3/crop_231.png",
+      "mask": "database/sessions/hollow3/mask_231.npy",
+      "bbox": [
+        0.0,
+        767.0,
+        1401.0,
+        354.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 232,
+      "crop": "database/sessions/hollow3/crop_232.png",
+      "mask": "database/sessions/hollow3/mask_232.npy",
+      "bbox": [
+        567.0,
+        706.0,
+        801.0,
+        343.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 233,
+      "crop": "database/sessions/hollow3/crop_233.png",
+      "mask": "database/sessions/hollow3/mask_233.npy",
+      "bbox": [
+        189.0,
+        417.0,
+        147.0,
+        130.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 234,
+      "crop": "database/sessions/hollow3/crop_234.png",
+      "mask": "database/sessions/hollow3/mask_234.npy",
+      "bbox": [
+        1158.0,
+        85.0,
+        62.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 235,
+      "crop": "database/sessions/hollow3/crop_235.png",
+      "mask": "database/sessions/hollow3/mask_235.npy",
+      "bbox": [
+        0.0,
+        893.0,
+        1401.0,
+        228.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 236,
+      "crop": "database/sessions/hollow3/crop_236.png",
+      "mask": "database/sessions/hollow3/mask_236.npy",
+      "bbox": [
+        1054.0,
+        371.0,
+        190.0,
+        395.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 237,
+      "crop": "database/sessions/hollow3/crop_237.png",
+      "mask": "database/sessions/hollow3/mask_237.npy",
+      "bbox": [
+        430.0,
+        918.0,
+        46.0,
+        29.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 238,
+      "crop": "database/sessions/hollow3/crop_238.png",
+      "mask": "database/sessions/hollow3/mask_238.npy",
+      "bbox": [
+        444.0,
+        608.0,
+        77.0,
+        52.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 239,
+      "crop": "database/sessions/hollow3/crop_239.png",
+      "mask": "database/sessions/hollow3/mask_239.npy",
+      "bbox": [
+        318.0,
+        543.0,
+        173.0,
+        404.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 240,
+      "crop": "database/sessions/hollow3/crop_240.png",
+      "mask": "database/sessions/hollow3/mask_240.npy",
+      "bbox": [
+        155.0,
+        15.0,
+        121.0,
+        90.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 241,
+      "crop": "database/sessions/hollow3/crop_241.png",
+      "mask": "database/sessions/hollow3/mask_241.npy",
+      "bbox": [
+        6.0,
+        955.0,
+        50.0,
+        34.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 242,
+      "crop": "database/sessions/hollow3/crop_242.png",
+      "mask": "database/sessions/hollow3/mask_242.npy",
+      "bbox": [
+        341.0,
+        702.0,
+        58.0,
+        105.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 243,
+      "crop": "database/sessions/hollow3/crop_243.png",
+      "mask": "database/sessions/hollow3/mask_243.npy",
+      "bbox": [
+        184.0,
+        705.0,
+        163.0,
+        115.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 244,
+      "crop": "database/sessions/hollow3/crop_244.png",
+      "mask": "database/sessions/hollow3/mask_244.npy",
+      "bbox": [
+        266.0,
+        127.0,
+        121.0,
+        46.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 245,
+      "crop": "database/sessions/hollow3/crop_245.png",
+      "mask": "database/sessions/hollow3/mask_245.npy",
+      "bbox": [
+        550.0,
+        706.0,
+        50.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 246,
+      "crop": "database/sessions/hollow3/crop_246.png",
+      "mask": "database/sessions/hollow3/mask_246.npy",
+      "bbox": [
+        1213.0,
+        83.0,
+        188.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 247,
+      "crop": "database/sessions/hollow3/crop_247.png",
+      "mask": "database/sessions/hollow3/mask_247.npy",
+      "bbox": [
+        993.0,
+        541.0,
+        87.0,
+        122.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 248,
+      "crop": "database/sessions/hollow3/crop_248.png",
+      "mask": "database/sessions/hollow3/mask_248.npy",
+      "bbox": [
+        738.0,
+        338.0,
+        202.0,
+        125.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 249,
+      "crop": "database/sessions/hollow3/crop_249.png",
+      "mask": "database/sessions/hollow3/mask_249.npy",
+      "bbox": [
+        267.0,
+        899.0,
+        147.0,
+        53.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 250,
+      "crop": "database/sessions/hollow3/crop_250.png",
+      "mask": "database/sessions/hollow3/mask_250.npy",
+      "bbox": [
+        698.0,
+        91.0,
+        141.0,
+        93.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 251,
+      "crop": "database/sessions/hollow3/crop_251.png",
+      "mask": "database/sessions/hollow3/mask_251.npy",
+      "bbox": [
+        550.0,
+        397.0,
+        118.0,
+        61.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 252,
+      "crop": "database/sessions/hollow3/crop_252.png",
+      "mask": "database/sessions/hollow3/mask_252.npy",
+      "bbox": [
+        8.0,
+        742.0,
+        217.0,
+        186.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 253,
+      "crop": "database/sessions/hollow3/crop_253.png",
+      "mask": "database/sessions/hollow3/mask_253.npy",
+      "bbox": [
+        799.0,
+        192.0,
+        348.0,
+        90.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 254,
+      "crop": "database/sessions/hollow3/crop_254.png",
+      "mask": "database/sessions/hollow3/mask_254.npy",
+      "bbox": [
+        878.0,
+        54.0,
+        80.0,
+        73.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 255,
+      "crop": "database/sessions/hollow3/crop_255.png",
+      "mask": "database/sessions/hollow3/mask_255.npy",
+      "bbox": [
+        456.0,
+        225.0,
+        88.0,
+        24.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 256,
+      "crop": "database/sessions/hollow3/crop_256.png",
+      "mask": "database/sessions/hollow3/mask_256.npy",
+      "bbox": [
+        969.0,
+        525.0,
+        117.0,
+        30.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 257,
+      "crop": "database/sessions/hollow3/crop_257.png",
+      "mask": "database/sessions/hollow3/mask_257.npy",
+      "bbox": [
+        667.0,
+        424.0,
+        65.0,
+        35.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 258,
+      "crop": "database/sessions/hollow3/crop_258.png",
+      "mask": "database/sessions/hollow3/mask_258.npy",
+      "bbox": [
+        814.0,
+        370.0,
+        432.0,
+        398.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 259,
+      "crop": "database/sessions/hollow3/crop_259.png",
+      "mask": "database/sessions/hollow3/mask_259.npy",
+      "bbox": [
+        1212.0,
+        692.0,
+        100.0,
+        82.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 260,
+      "crop": "database/sessions/hollow3/crop_260.png",
+      "mask": "database/sessions/hollow3/mask_260.npy",
+      "bbox": [
+        465.0,
+        167.0,
+        235.0,
+        78.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 261,
+      "crop": "database/sessions/hollow3/crop_261.png",
+      "mask": "database/sessions/hollow3/mask_261.npy",
+      "bbox": [
+        73.0,
+        450.0,
+        47.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 262,
+      "crop": "database/sessions/hollow3/crop_262.png",
+      "mask": "database/sessions/hollow3/mask_262.npy",
+      "bbox": [
+        1109.0,
+        232.0,
+        82.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 263,
+      "crop": "database/sessions/hollow3/crop_263.png",
+      "mask": "database/sessions/hollow3/mask_263.npy",
+      "bbox": [
+        1315.0,
+        157.0,
+        86.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 264,
+      "crop": "database/sessions/hollow3/crop_264.png",
+      "mask": "database/sessions/hollow3/mask_264.npy",
+      "bbox": [
+        988.0,
+        94.0,
+        166.0,
+        132.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 265,
+      "crop": "database/sessions/hollow3/crop_265.png",
+      "mask": "database/sessions/hollow3/mask_265.npy",
+      "bbox": [
+        696.0,
+        111.0,
+        48.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 266,
+      "crop": "database/sessions/hollow3/crop_266.png",
+      "mask": "database/sessions/hollow3/mask_266.npy",
+      "bbox": [
+        334.0,
+        646.0,
+        51.0,
+        102.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 267,
+      "crop": "database/sessions/hollow3/crop_267.png",
+      "mask": "database/sessions/hollow3/mask_267.npy",
+      "bbox": [
+        0.0,
+        7.0,
+        272.0,
+        113.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 268,
+      "crop": "database/sessions/hollow3/crop_268.png",
+      "mask": "database/sessions/hollow3/mask_268.npy",
+      "bbox": [
+        1312.0,
+        113.0,
+        89.0,
+        48.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 269,
+      "crop": "database/sessions/hollow3/crop_269.png",
+      "mask": "database/sessions/hollow3/mask_269.npy",
+      "bbox": [
+        663.0,
+        905.0,
+        70.0,
+        45.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 270,
+      "crop": "database/sessions/hollow3/crop_270.png",
+      "mask": "database/sessions/hollow3/mask_270.npy",
+      "bbox": [
+        184.0,
+        394.0,
+        205.0,
+        154.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 271,
+      "crop": "database/sessions/hollow3/crop_271.png",
+      "mask": "database/sessions/hollow3/mask_271.npy",
+      "bbox": [
+        1130.0,
+        204.0,
+        65.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 272,
+      "crop": "database/sessions/hollow3/crop_272.png",
+      "mask": "database/sessions/hollow3/mask_272.npy",
+      "bbox": [
+        0.0,
+        215.0,
+        1401.0,
+        906.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 273,
+      "crop": "database/sessions/hollow3/crop_273.png",
+      "mask": "database/sessions/hollow3/mask_273.npy",
+      "bbox": [
+        806.0,
+        366.0,
+        595.0,
+        132.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 274,
+      "crop": "database/sessions/hollow3/crop_274.png",
+      "mask": "database/sessions/hollow3/mask_274.npy",
+      "bbox": [
+        275.0,
+        0.0,
+        134.0,
+        44.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 275,
+      "crop": "database/sessions/hollow3/crop_275.png",
+      "mask": "database/sessions/hollow3/mask_275.npy",
+      "bbox": [
+        897.0,
+        256.0,
+        114.0,
+        83.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 276,
+      "crop": "database/sessions/hollow3/crop_276.png",
+      "mask": "database/sessions/hollow3/mask_276.npy",
+      "bbox": [
+        1039.0,
+        309.0,
+        195.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 277,
+      "crop": "database/sessions/hollow3/crop_277.png",
+      "mask": "database/sessions/hollow3/mask_277.npy",
+      "bbox": [
+        623.0,
+        184.0,
+        168.0,
+        260.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 278,
+      "crop": "database/sessions/hollow3/crop_278.png",
+      "mask": "database/sessions/hollow3/mask_278.npy",
+      "bbox": [
+        1148.0,
+        112.0,
+        253.0,
+        73.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 279,
+      "crop": "database/sessions/hollow3/crop_279.png",
+      "mask": "database/sessions/hollow3/mask_279.npy",
+      "bbox": [
+        1312.0,
+        88.0,
+        89.0,
+        24.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 280,
+      "crop": "database/sessions/hollow3/crop_280.png",
+      "mask": "database/sessions/hollow3/mask_280.npy",
+      "bbox": [
+        0.0,
+        136.0,
+        141.0,
+        30.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 281,
+      "crop": "database/sessions/hollow3/crop_281.png",
+      "mask": "database/sessions/hollow3/mask_281.npy",
+      "bbox": [
+        835.0,
+        285.0,
+        101.0,
+        65.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 282,
+      "crop": "database/sessions/hollow3/crop_282.png",
+      "mask": "database/sessions/hollow3/mask_282.npy",
+      "bbox": [
+        444.0,
+        608.0,
+        136.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 283,
+      "crop": "database/sessions/hollow3/crop_283.png",
+      "mask": "database/sessions/hollow3/mask_283.npy",
+      "bbox": [
+        274.0,
+        0.0,
+        136.0,
+        97.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 284,
+      "crop": "database/sessions/hollow3/crop_284.png",
+      "mask": "database/sessions/hollow3/mask_284.npy",
+      "bbox": [
+        275.0,
+        102.0,
+        89.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 285,
+      "crop": "database/sessions/hollow3/crop_285.png",
+      "mask": "database/sessions/hollow3/mask_285.npy",
+      "bbox": [
+        411.0,
+        256.0,
+        176.0,
+        182.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 286,
+      "crop": "database/sessions/hollow3/crop_286.png",
+      "mask": "database/sessions/hollow3/mask_286.npy",
+      "bbox": [
+        318.0,
+        637.0,
+        68.0,
+        126.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 287,
+      "crop": "database/sessions/hollow3/crop_287.png",
+      "mask": "database/sessions/hollow3/mask_287.npy",
+      "bbox": [
+        1041.0,
+        790.0,
+        103.0,
+        151.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 288,
+      "crop": "database/sessions/hollow3/crop_288.png",
+      "mask": "database/sessions/hollow3/mask_288.npy",
+      "bbox": [
+        116.0,
+        384.0,
+        83.0,
+        30.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 289,
+      "crop": "database/sessions/hollow3/crop_289.png",
+      "mask": "database/sessions/hollow3/mask_289.npy",
+      "bbox": [
+        139.0,
+        604.0,
+        346.0,
+        421.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 290,
+      "crop": "database/sessions/hollow3/crop_290.png",
+      "mask": "database/sessions/hollow3/mask_290.npy",
+      "bbox": [
+        1237.0,
+        557.0,
+        164.0,
+        87.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 291,
+      "crop": "database/sessions/hollow3/crop_291.png",
+      "mask": "database/sessions/hollow3/mask_291.npy",
+      "bbox": [
+        200.0,
+        133.0,
+        341.0,
+        158.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 292,
+      "crop": "database/sessions/hollow3/crop_292.png",
+      "mask": "database/sessions/hollow3/mask_292.npy",
+      "bbox": [
+        128.0,
+        544.0,
+        335.0,
+        274.0
+      ],
+      "labeled": false
+    }
+  ]
+}

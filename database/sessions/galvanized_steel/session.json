@@ -1,0 +1,3906 @@
+{
+  "image_name": "galvanized_steel.png",
+  "total": 325,
+  "objects": [
+    {
+      "index": 0,
+      "crop": "database/sessions/galvanized_steel/crop_0.png",
+      "mask": "database/sessions/galvanized_steel/mask_0.npy",
+      "bbox": [
+        1225.0,
+        474.0,
+        104.0,
+        184.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 1,
+      "crop": "database/sessions/galvanized_steel/crop_1.png",
+      "mask": "database/sessions/galvanized_steel/mask_1.npy",
+      "bbox": [
+        739.0,
+        603.0,
+        87.0,
+        226.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 2,
+      "crop": "database/sessions/galvanized_steel/crop_2.png",
+      "mask": "database/sessions/galvanized_steel/mask_2.npy",
+      "bbox": [
+        1375.0,
+        454.0,
+        123.0,
+        128.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 3,
+      "crop": "database/sessions/galvanized_steel/crop_3.png",
+      "mask": "database/sessions/galvanized_steel/mask_3.npy",
+      "bbox": [
+        974.0,
+        770.0,
+        355.0,
+        201.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 4,
+      "crop": "database/sessions/galvanized_steel/crop_4.png",
+      "mask": "database/sessions/galvanized_steel/mask_4.npy",
+      "bbox": [
+        1031.0,
+        686.0,
+        156.0,
+        146.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 5,
+      "crop": "database/sessions/galvanized_steel/crop_5.png",
+      "mask": "database/sessions/galvanized_steel/mask_5.npy",
+      "bbox": [
+        1277.0,
+        474.0,
+        109.0,
+        191.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 6,
+      "crop": "database/sessions/galvanized_steel/crop_6.png",
+      "mask": "database/sessions/galvanized_steel/mask_6.npy",
+      "bbox": [
+        1441.0,
+        336.0,
+        94.0,
+        64.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 7,
+      "crop": "database/sessions/galvanized_steel/crop_7.png",
+      "mask": "database/sessions/galvanized_steel/mask_7.npy",
+      "bbox": [
+        1357.0,
+        666.0,
+        41.0,
+        71.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 8,
+      "crop": "database/sessions/galvanized_steel/crop_8.png",
+      "mask": "database/sessions/galvanized_steel/mask_8.npy",
+      "bbox": [
+        1277.0,
+        407.0,
+        115.0,
+        69.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 9,
+      "crop": "database/sessions/galvanized_steel/crop_9.png",
+      "mask": "database/sessions/galvanized_steel/mask_9.npy",
+      "bbox": [
+        807.0,
+        822.0,
+        63.0,
+        120.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 10,
+      "crop": "database/sessions/galvanized_steel/crop_10.png",
+      "mask": "database/sessions/galvanized_steel/mask_10.npy",
+      "bbox": [
+        1369.0,
+        715.0,
+        161.0,
+        212.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 11,
+      "crop": "database/sessions/galvanized_steel/crop_11.png",
+      "mask": "database/sessions/galvanized_steel/mask_11.npy",
+      "bbox": [
+        598.0,
+        808.0,
+        93.0,
+        180.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 12,
+      "crop": "database/sessions/galvanized_steel/crop_12.png",
+      "mask": "database/sessions/galvanized_steel/mask_12.npy",
+      "bbox": [
+        694.0,
+        818.0,
+        142.0,
+        122.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 13,
+      "crop": "database/sessions/galvanized_steel/crop_13.png",
+      "mask": "database/sessions/galvanized_steel/mask_13.npy",
+      "bbox": [
+        740.0,
+        803.0,
+        46.0,
+        27.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 14,
+      "crop": "database/sessions/galvanized_steel/crop_14.png",
+      "mask": "database/sessions/galvanized_steel/mask_14.npy",
+      "bbox": [
+        767.0,
+        433.0,
+        59.0,
+        46.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 15,
+      "crop": "database/sessions/galvanized_steel/crop_15.png",
+      "mask": "database/sessions/galvanized_steel/mask_15.npy",
+      "bbox": [
+        1375.0,
+        395.0,
+        160.0,
+        101.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 16,
+      "crop": "database/sessions/galvanized_steel/crop_16.png",
+      "mask": "database/sessions/galvanized_steel/mask_16.npy",
+      "bbox": [
+        964.0,
+        643.0,
+        68.0,
+        85.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 17,
+      "crop": "database/sessions/galvanized_steel/crop_17.png",
+      "mask": "database/sessions/galvanized_steel/mask_17.npy",
+      "bbox": [
+        1492.0,
+        551.0,
+        43.0,
+        381.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 18,
+      "crop": "database/sessions/galvanized_steel/crop_18.png",
+      "mask": "database/sessions/galvanized_steel/mask_18.npy",
+      "bbox": [
+        677.0,
+        858.0,
+        48.0,
+        21.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 19,
+      "crop": "database/sessions/galvanized_steel/crop_19.png",
+      "mask": "database/sessions/galvanized_steel/mask_19.npy",
+      "bbox": [
+        1200.0,
+        558.0,
+        79.0,
+        68.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 20,
+      "crop": "database/sessions/galvanized_steel/crop_20.png",
+      "mask": "database/sessions/galvanized_steel/mask_20.npy",
+      "bbox": [
+        1414.0,
+        442.0,
+        116.0,
+        108.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 21,
+      "crop": "database/sessions/galvanized_steel/crop_21.png",
+      "mask": "database/sessions/galvanized_steel/mask_21.npy",
+      "bbox": [
+        1159.0,
+        950.0,
+        129.0,
+        48.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 22,
+      "crop": "database/sessions/galvanized_steel/crop_22.png",
+      "mask": "database/sessions/galvanized_steel/mask_22.npy",
+      "bbox": [
+        887.0,
+        658.0,
+        94.0,
+        85.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 23,
+      "crop": "database/sessions/galvanized_steel/crop_23.png",
+      "mask": "database/sessions/galvanized_steel/mask_23.npy",
+      "bbox": [
+        826.0,
+        432.0,
+        370.0,
+        76.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 24,
+      "crop": "database/sessions/galvanized_steel/crop_24.png",
+      "mask": "database/sessions/galvanized_steel/mask_24.npy",
+      "bbox": [
+        1035.0,
+        351.0,
+        80.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 25,
+      "crop": "database/sessions/galvanized_steel/crop_25.png",
+      "mask": "database/sessions/galvanized_steel/mask_25.npy",
+      "bbox": [
+        732.0,
+        878.0,
+        62.0,
+        83.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 26,
+      "crop": "database/sessions/galvanized_steel/crop_26.png",
+      "mask": "database/sessions/galvanized_steel/mask_26.npy",
+      "bbox": [
+        862.0,
+        537.0,
+        49.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 27,
+      "crop": "database/sessions/galvanized_steel/crop_27.png",
+      "mask": "database/sessions/galvanized_steel/mask_27.npy",
+      "bbox": [
+        1048.0,
+        359.0,
+        67.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 28,
+      "crop": "database/sessions/galvanized_steel/crop_28.png",
+      "mask": "database/sessions/galvanized_steel/mask_28.npy",
+      "bbox": [
+        1064.0,
+        437.0,
+        28.0,
+        29.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 29,
+      "crop": "database/sessions/galvanized_steel/crop_29.png",
+      "mask": "database/sessions/galvanized_steel/mask_29.npy",
+      "bbox": [
+        1387.0,
+        519.0,
+        108.0,
+        178.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 30,
+      "crop": "database/sessions/galvanized_steel/crop_30.png",
+      "mask": "database/sessions/galvanized_steel/mask_30.npy",
+      "bbox": [
+        694.0,
+        878.0,
+        44.0,
+        75.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 31,
+      "crop": "database/sessions/galvanized_steel/crop_31.png",
+      "mask": "database/sessions/galvanized_steel/mask_31.npy",
+      "bbox": [
+        830.0,
+        796.0,
+        326.0,
+        190.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 32,
+      "crop": "database/sessions/galvanized_steel/crop_32.png",
+      "mask": "database/sessions/galvanized_steel/mask_32.npy",
+      "bbox": [
+        695.0,
+        576.0,
+        81.0,
+        48.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 33,
+      "crop": "database/sessions/galvanized_steel/crop_33.png",
+      "mask": "database/sessions/galvanized_steel/mask_33.npy",
+      "bbox": [
+        1033.0,
+        594.0,
+        93.0,
+        72.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 34,
+      "crop": "database/sessions/galvanized_steel/crop_34.png",
+      "mask": "database/sessions/galvanized_steel/mask_34.npy",
+      "bbox": [
+        791.0,
+        777.0,
+        204.0,
+        137.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 35,
+      "crop": "database/sessions/galvanized_steel/crop_35.png",
+      "mask": "database/sessions/galvanized_steel/mask_35.npy",
+      "bbox": [
+        935.0,
+        790.0,
+        36.0,
+        44.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 36,
+      "crop": "database/sessions/galvanized_steel/crop_36.png",
+      "mask": "database/sessions/galvanized_steel/mask_36.npy",
+      "bbox": [
+        682.0,
+        535.0,
+        80.0,
+        53.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 37,
+      "crop": "database/sessions/galvanized_steel/crop_37.png",
+      "mask": "database/sessions/galvanized_steel/mask_37.npy",
+      "bbox": [
+        1194.0,
+        760.0,
+        26.0,
+        30.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 38,
+      "crop": "database/sessions/galvanized_steel/crop_38.png",
+      "mask": "database/sessions/galvanized_steel/mask_38.npy",
+      "bbox": [
+        987.0,
+        535.0,
+        86.0,
+        27.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 39,
+      "crop": "database/sessions/galvanized_steel/crop_39.png",
+      "mask": "database/sessions/galvanized_steel/mask_39.npy",
+      "bbox": [
+        808.0,
+        774.0,
+        66.0,
+        18.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 40,
+      "crop": "database/sessions/galvanized_steel/crop_40.png",
+      "mask": "database/sessions/galvanized_steel/mask_40.npy",
+      "bbox": [
+        968.0,
+        537.0,
+        118.0,
+        104.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 41,
+      "crop": "database/sessions/galvanized_steel/crop_41.png",
+      "mask": "database/sessions/galvanized_steel/mask_41.npy",
+      "bbox": [
+        916.0,
+        375.0,
+        67.0,
+        75.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 42,
+      "crop": "database/sessions/galvanized_steel/crop_42.png",
+      "mask": "database/sessions/galvanized_steel/mask_42.npy",
+      "bbox": [
+        1390.0,
+        353.0,
+        145.0,
+        82.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 43,
+      "crop": "database/sessions/galvanized_steel/crop_43.png",
+      "mask": "database/sessions/galvanized_steel/mask_43.npy",
+      "bbox": [
+        803.0,
+        684.0,
+        72.0,
+        89.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 44,
+      "crop": "database/sessions/galvanized_steel/crop_44.png",
+      "mask": "database/sessions/galvanized_steel/mask_44.npy",
+      "bbox": [
+        1222.0,
+        678.0,
+        54.0,
+        82.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 45,
+      "crop": "database/sessions/galvanized_steel/crop_45.png",
+      "mask": "database/sessions/galvanized_steel/mask_45.npy",
+      "bbox": [
+        617.0,
+        520.0,
+        47.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 46,
+      "crop": "database/sessions/galvanized_steel/crop_46.png",
+      "mask": "database/sessions/galvanized_steel/mask_46.npy",
+      "bbox": [
+        1267.0,
+        898.0,
+        63.0,
+        16.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 47,
+      "crop": "database/sessions/galvanized_steel/crop_47.png",
+      "mask": "database/sessions/galvanized_steel/mask_47.npy",
+      "bbox": [
+        861.0,
+        695.0,
+        49.0,
+        57.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 48,
+      "crop": "database/sessions/galvanized_steel/crop_48.png",
+      "mask": "database/sessions/galvanized_steel/mask_48.npy",
+      "bbox": [
+        632.0,
+        801.0,
+        43.0,
+        77.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 49,
+      "crop": "database/sessions/galvanized_steel/crop_49.png",
+      "mask": "database/sessions/galvanized_steel/mask_49.npy",
+      "bbox": [
+        1192.0,
+        637.0,
+        84.0,
+        34.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 50,
+      "crop": "database/sessions/galvanized_steel/crop_50.png",
+      "mask": "database/sessions/galvanized_steel/mask_50.npy",
+      "bbox": [
+        899.0,
+        569.0,
+        37.0,
+        77.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 51,
+      "crop": "database/sessions/galvanized_steel/crop_51.png",
+      "mask": "database/sessions/galvanized_steel/mask_51.npy",
+      "bbox": [
+        1287.0,
+        789.0,
+        65.0,
+        85.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 52,
+      "crop": "database/sessions/galvanized_steel/crop_52.png",
+      "mask": "database/sessions/galvanized_steel/mask_52.npy",
+      "bbox": [
+        1332.0,
+        876.0,
+        109.0,
+        70.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 53,
+      "crop": "database/sessions/galvanized_steel/crop_53.png",
+      "mask": "database/sessions/galvanized_steel/mask_53.npy",
+      "bbox": [
+        686.0,
+        665.0,
+        32.0,
+        118.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 54,
+      "crop": "database/sessions/galvanized_steel/crop_54.png",
+      "mask": "database/sessions/galvanized_steel/mask_54.npy",
+      "bbox": [
+        1218.0,
+        863.0,
+        145.0,
+        24.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 55,
+      "crop": "database/sessions/galvanized_steel/crop_55.png",
+      "mask": "database/sessions/galvanized_steel/mask_55.npy",
+      "bbox": [
+        1221.0,
+        672.0,
+        102.0,
+        32.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 56,
+      "crop": "database/sessions/galvanized_steel/crop_56.png",
+      "mask": "database/sessions/galvanized_steel/mask_56.npy",
+      "bbox": [
+        1237.0,
+        443.0,
+        47.0,
+        39.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 57,
+      "crop": "database/sessions/galvanized_steel/crop_57.png",
+      "mask": "database/sessions/galvanized_steel/mask_57.npy",
+      "bbox": [
+        821.0,
+        604.0,
+        79.0,
+        86.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 58,
+      "crop": "database/sessions/galvanized_steel/crop_58.png",
+      "mask": "database/sessions/galvanized_steel/mask_58.npy",
+      "bbox": [
+        599.0,
+        664.0,
+        76.0,
+        102.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 59,
+      "crop": "database/sessions/galvanized_steel/crop_59.png",
+      "mask": "database/sessions/galvanized_steel/mask_59.npy",
+      "bbox": [
+        1442.0,
+        656.0,
+        48.0,
+        79.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 60,
+      "crop": "database/sessions/galvanized_steel/crop_60.png",
+      "mask": "database/sessions/galvanized_steel/mask_60.npy",
+      "bbox": [
+        1163.0,
+        486.0,
+        55.0,
+        170.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 61,
+      "crop": "database/sessions/galvanized_steel/crop_61.png",
+      "mask": "database/sessions/galvanized_steel/mask_61.npy",
+      "bbox": [
+        1472.0,
+        480.0,
+        63.0,
+        44.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 62,
+      "crop": "database/sessions/galvanized_steel/crop_62.png",
+      "mask": "database/sessions/galvanized_steel/mask_62.npy",
+      "bbox": [
+        1201.0,
+        379.0,
+        114.0,
+        58.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 63,
+      "crop": "database/sessions/galvanized_steel/crop_63.png",
+      "mask": "database/sessions/galvanized_steel/mask_63.npy",
+      "bbox": [
+        919.0,
+        505.0,
+        185.0,
+        18.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 64,
+      "crop": "database/sessions/galvanized_steel/crop_64.png",
+      "mask": "database/sessions/galvanized_steel/mask_64.npy",
+      "bbox": [
+        1131.0,
+        391.0,
+        32.0,
+        48.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 65,
+      "crop": "database/sessions/galvanized_steel/crop_65.png",
+      "mask": "database/sessions/galvanized_steel/mask_65.npy",
+      "bbox": [
+        828.0,
+        952.0,
+        326.0,
+        34.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 66,
+      "crop": "database/sessions/galvanized_steel/crop_66.png",
+      "mask": "database/sessions/galvanized_steel/mask_66.npy",
+      "bbox": [
+        1190.0,
+        432.0,
+        52.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 67,
+      "crop": "database/sessions/galvanized_steel/crop_67.png",
+      "mask": "database/sessions/galvanized_steel/mask_67.npy",
+      "bbox": [
+        1004.0,
+        344.0,
+        165.0,
+        111.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 68,
+      "crop": "database/sessions/galvanized_steel/crop_68.png",
+      "mask": "database/sessions/galvanized_steel/mask_68.npy",
+      "bbox": [
+        769.0,
+        465.0,
+        151.0,
+        103.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 69,
+      "crop": "database/sessions/galvanized_steel/crop_69.png",
+      "mask": "database/sessions/galvanized_steel/mask_69.npy",
+      "bbox": [
+        1016.0,
+        369.0,
+        34.0,
+        42.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 70,
+      "crop": "database/sessions/galvanized_steel/crop_70.png",
+      "mask": "database/sessions/galvanized_steel/mask_70.npy",
+      "bbox": [
+        1056.0,
+        434.0,
+        41.0,
+        33.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 71,
+      "crop": "database/sessions/galvanized_steel/crop_71.png",
+      "mask": "database/sessions/galvanized_steel/mask_71.npy",
+      "bbox": [
+        1423.0,
+        616.0,
+        67.0,
+        118.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 72,
+      "crop": "database/sessions/galvanized_steel/crop_72.png",
+      "mask": "database/sessions/galvanized_steel/mask_72.npy",
+      "bbox": [
+        1159.0,
+        907.0,
+        129.0,
+        92.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 73,
+      "crop": "database/sessions/galvanized_steel/crop_73.png",
+      "mask": "database/sessions/galvanized_steel/mask_73.npy",
+      "bbox": [
+        1065.0,
+        574.0,
+        29.0,
+        47.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 74,
+      "crop": "database/sessions/galvanized_steel/crop_74.png",
+      "mask": "database/sessions/galvanized_steel/mask_74.npy",
+      "bbox": [
+        1002.0,
+        728.0,
+        28.0,
+        45.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 75,
+      "crop": "database/sessions/galvanized_steel/crop_75.png",
+      "mask": "database/sessions/galvanized_steel/mask_75.npy",
+      "bbox": [
+        1315.0,
+        750.0,
+        17.0,
+        46.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 76,
+      "crop": "database/sessions/galvanized_steel/crop_76.png",
+      "mask": "database/sessions/galvanized_steel/mask_76.npy",
+      "bbox": [
+        1331.0,
+        492.0,
+        57.0,
+        24.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 77,
+      "crop": "database/sessions/galvanized_steel/crop_77.png",
+      "mask": "database/sessions/galvanized_steel/mask_77.npy",
+      "bbox": [
+        1270.0,
+        345.0,
+        77.0,
+        48.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 78,
+      "crop": "database/sessions/galvanized_steel/crop_78.png",
+      "mask": "database/sessions/galvanized_steel/mask_78.npy",
+      "bbox": [
+        1228.0,
+        777.0,
+        55.0,
+        91.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 79,
+      "crop": "database/sessions/galvanized_steel/crop_79.png",
+      "mask": "database/sessions/galvanized_steel/mask_79.npy",
+      "bbox": [
+        1351.0,
+        521.0,
+        86.0,
+        155.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 80,
+      "crop": "database/sessions/galvanized_steel/crop_80.png",
+      "mask": "database/sessions/galvanized_steel/mask_80.npy",
+      "bbox": [
+        888.0,
+        798.0,
+        27.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 81,
+      "crop": "database/sessions/galvanized_steel/crop_81.png",
+      "mask": "database/sessions/galvanized_steel/mask_81.npy",
+      "bbox": [
+        1178.0,
+        698.0,
+        36.0,
+        90.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 82,
+      "crop": "database/sessions/galvanized_steel/crop_82.png",
+      "mask": "database/sessions/galvanized_steel/mask_82.npy",
+      "bbox": [
+        1323.0,
+        486.0,
+        66.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 83,
+      "crop": "database/sessions/galvanized_steel/crop_83.png",
+      "mask": "database/sessions/galvanized_steel/mask_83.npy",
+      "bbox": [
+        882.0,
+        731.0,
+        92.0,
+        90.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 84,
+      "crop": "database/sessions/galvanized_steel/crop_84.png",
+      "mask": "database/sessions/galvanized_steel/mask_84.npy",
+      "bbox": [
+        1074.0,
+        419.0,
+        71.0,
+        55.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 85,
+      "crop": "database/sessions/galvanized_steel/crop_85.png",
+      "mask": "database/sessions/galvanized_steel/mask_85.npy",
+      "bbox": [
+        1473.0,
+        481.0,
+        62.0,
+        70.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 86,
+      "crop": "database/sessions/galvanized_steel/crop_86.png",
+      "mask": "database/sessions/galvanized_steel/mask_86.npy",
+      "bbox": [
+        1190.0,
+        431.0,
+        78.0,
+        37.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 87,
+      "crop": "database/sessions/galvanized_steel/crop_87.png",
+      "mask": "database/sessions/galvanized_steel/mask_87.npy",
+      "bbox": [
+        914.0,
+        505.0,
+        189.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 88,
+      "crop": "database/sessions/galvanized_steel/crop_88.png",
+      "mask": "database/sessions/galvanized_steel/mask_88.npy",
+      "bbox": [
+        351.0,
+        686.0,
+        108.0,
+        193.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 89,
+      "crop": "database/sessions/galvanized_steel/crop_89.png",
+      "mask": "database/sessions/galvanized_steel/mask_89.npy",
+      "bbox": [
+        470.0,
+        663.0,
+        94.0,
+        87.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 90,
+      "crop": "database/sessions/galvanized_steel/crop_90.png",
+      "mask": "database/sessions/galvanized_steel/mask_90.npy",
+      "bbox": [
+        0.0,
+        487.0,
+        47.0,
+        157.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 91,
+      "crop": "database/sessions/galvanized_steel/crop_91.png",
+      "mask": "database/sessions/galvanized_steel/mask_91.npy",
+      "bbox": [
+        558.0,
+        353.0,
+        57.0,
+        268.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 92,
+      "crop": "database/sessions/galvanized_steel/crop_92.png",
+      "mask": "database/sessions/galvanized_steel/mask_92.npy",
+      "bbox": [
+        246.0,
+        335.0,
+        170.0,
+        393.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 93,
+      "crop": "database/sessions/galvanized_steel/crop_93.png",
+      "mask": "database/sessions/galvanized_steel/mask_93.npy",
+      "bbox": [
+        198.0,
+        756.0,
+        160.0,
+        228.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 94,
+      "crop": "database/sessions/galvanized_steel/crop_94.png",
+      "mask": "database/sessions/galvanized_steel/mask_94.npy",
+      "bbox": [
+        525.0,
+        347.0,
+        53.0,
+        263.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 95,
+      "crop": "database/sessions/galvanized_steel/crop_95.png",
+      "mask": "database/sessions/galvanized_steel/mask_95.npy",
+      "bbox": [
+        0.0,
+        489.0,
+        92.0,
+        192.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 96,
+      "crop": "database/sessions/galvanized_steel/crop_96.png",
+      "mask": "database/sessions/galvanized_steel/mask_96.npy",
+      "bbox": [
+        366.0,
+        948.0,
+        295.0,
+        37.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 97,
+      "crop": "database/sessions/galvanized_steel/crop_97.png",
+      "mask": "database/sessions/galvanized_steel/mask_97.npy",
+      "bbox": [
+        555.0,
+        831.0,
+        29.0,
+        122.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 98,
+      "crop": "database/sessions/galvanized_steel/crop_98.png",
+      "mask": "database/sessions/galvanized_steel/mask_98.npy",
+      "bbox": [
+        387.0,
+        880.0,
+        29.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 99,
+      "crop": "database/sessions/galvanized_steel/crop_99.png",
+      "mask": "database/sessions/galvanized_steel/mask_99.npy",
+      "bbox": [
+        381.0,
+        968.0,
+        18.0,
+        35.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 100,
+      "crop": "database/sessions/galvanized_steel/crop_100.png",
+      "mask": "database/sessions/galvanized_steel/mask_100.npy",
+      "bbox": [
+        137.0,
+        941.0,
+        44.0,
+        34.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 101,
+      "crop": "database/sessions/galvanized_steel/crop_101.png",
+      "mask": "database/sessions/galvanized_steel/mask_101.npy",
+      "bbox": [
+        96.0,
+        853.0,
+        81.0,
+        78.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 102,
+      "crop": "database/sessions/galvanized_steel/crop_102.png",
+      "mask": "database/sessions/galvanized_steel/mask_102.npy",
+      "bbox": [
+        353.0,
+        949.0,
+        309.0,
+        52.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 103,
+      "crop": "database/sessions/galvanized_steel/crop_103.png",
+      "mask": "database/sessions/galvanized_steel/mask_103.npy",
+      "bbox": [
+        243.0,
+        764.0,
+        78.0,
+        219.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 104,
+      "crop": "database/sessions/galvanized_steel/crop_104.png",
+      "mask": "database/sessions/galvanized_steel/mask_104.npy",
+      "bbox": [
+        118.0,
+        728.0,
+        100.0,
+        90.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 105,
+      "crop": "database/sessions/galvanized_steel/crop_105.png",
+      "mask": "database/sessions/galvanized_steel/mask_105.npy",
+      "bbox": [
+        29.0,
+        448.0,
+        99.0,
+        35.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 106,
+      "crop": "database/sessions/galvanized_steel/crop_106.png",
+      "mask": "database/sessions/galvanized_steel/mask_106.npy",
+      "bbox": [
+        39.0,
+        640.0,
+        109.0,
+        80.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 107,
+      "crop": "database/sessions/galvanized_steel/crop_107.png",
+      "mask": "database/sessions/galvanized_steel/mask_107.npy",
+      "bbox": [
+        13.0,
+        933.0,
+        88.0,
+        29.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 108,
+      "crop": "database/sessions/galvanized_steel/crop_108.png",
+      "mask": "database/sessions/galvanized_steel/mask_108.npy",
+      "bbox": [
+        799.0,
+        957.0,
+        30.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 109,
+      "crop": "database/sessions/galvanized_steel/crop_109.png",
+      "mask": "database/sessions/galvanized_steel/mask_109.npy",
+      "bbox": [
+        108.0,
+        586.0,
+        99.0,
+        64.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 110,
+      "crop": "database/sessions/galvanized_steel/crop_110.png",
+      "mask": "database/sessions/galvanized_steel/mask_110.npy",
+      "bbox": [
+        168.0,
+        819.0,
+        49.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 111,
+      "crop": "database/sessions/galvanized_steel/crop_111.png",
+      "mask": "database/sessions/galvanized_steel/mask_111.npy",
+      "bbox": [
+        446.0,
+        716.0,
+        107.0,
+        204.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 112,
+      "crop": "database/sessions/galvanized_steel/crop_112.png",
+      "mask": "database/sessions/galvanized_steel/mask_112.npy",
+      "bbox": [
+        43.0,
+        803.0,
+        79.0,
+        60.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 113,
+      "crop": "database/sessions/galvanized_steel/crop_113.png",
+      "mask": "database/sessions/galvanized_steel/mask_113.npy",
+      "bbox": [
+        557.0,
+        411.0,
+        30.0,
+        134.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 114,
+      "crop": "database/sessions/galvanized_steel/crop_114.png",
+      "mask": "database/sessions/galvanized_steel/mask_114.npy",
+      "bbox": [
+        0.0,
+        751.0,
+        119.0,
+        89.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 115,
+      "crop": "database/sessions/galvanized_steel/crop_115.png",
+      "mask": "database/sessions/galvanized_steel/mask_115.npy",
+      "bbox": [
+        571.0,
+        688.0,
+        21.0,
+        105.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 116,
+      "crop": "database/sessions/galvanized_steel/crop_116.png",
+      "mask": "database/sessions/galvanized_steel/mask_116.npy",
+      "bbox": [
+        807.0,
+        372.0,
+        24.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 117,
+      "crop": "database/sessions/galvanized_steel/crop_117.png",
+      "mask": "database/sessions/galvanized_steel/mask_117.npy",
+      "bbox": [
+        54.0,
+        565.0,
+        58.0,
+        103.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 118,
+      "crop": "database/sessions/galvanized_steel/crop_118.png",
+      "mask": "database/sessions/galvanized_steel/mask_118.npy",
+      "bbox": [
+        318.0,
+        849.0,
+        33.0,
+        118.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 119,
+      "crop": "database/sessions/galvanized_steel/crop_119.png",
+      "mask": "database/sessions/galvanized_steel/mask_119.npy",
+      "bbox": [
+        694.0,
+        575.0,
+        83.0,
+        68.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 120,
+      "crop": "database/sessions/galvanized_steel/crop_120.png",
+      "mask": "database/sessions/galvanized_steel/mask_120.npy",
+      "bbox": [
+        0.0,
+        415.0,
+        42.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 121,
+      "crop": "database/sessions/galvanized_steel/crop_121.png",
+      "mask": "database/sessions/galvanized_steel/mask_121.npy",
+      "bbox": [
+        795.0,
+        825.0,
+        29.0,
+        60.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 122,
+      "crop": "database/sessions/galvanized_steel/crop_122.png",
+      "mask": "database/sessions/galvanized_steel/mask_122.npy",
+      "bbox": [
+        134.0,
+        371.0,
+        26.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 123,
+      "crop": "database/sessions/galvanized_steel/crop_123.png",
+      "mask": "database/sessions/galvanized_steel/mask_123.npy",
+      "bbox": [
+        704.0,
+        948.0,
+        78.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 124,
+      "crop": "database/sessions/galvanized_steel/crop_124.png",
+      "mask": "database/sessions/galvanized_steel/mask_124.npy",
+      "bbox": [
+        431.0,
+        544.0,
+        38.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 125,
+      "crop": "database/sessions/galvanized_steel/crop_125.png",
+      "mask": "database/sessions/galvanized_steel/mask_125.npy",
+      "bbox": [
+        362.0,
+        539.0,
+        59.0,
+        79.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 126,
+      "crop": "database/sessions/galvanized_steel/crop_126.png",
+      "mask": "database/sessions/galvanized_steel/mask_126.npy",
+      "bbox": [
+        230.0,
+        421.0,
+        66.0,
+        162.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 127,
+      "crop": "database/sessions/galvanized_steel/crop_127.png",
+      "mask": "database/sessions/galvanized_steel/mask_127.npy",
+      "bbox": [
+        0.0,
+        416.0,
+        132.0,
+        63.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 128,
+      "crop": "database/sessions/galvanized_steel/crop_128.png",
+      "mask": "database/sessions/galvanized_steel/mask_128.npy",
+      "bbox": [
+        197.0,
+        760.0,
+        73.0,
+        201.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 129,
+      "crop": "database/sessions/galvanized_steel/crop_129.png",
+      "mask": "database/sessions/galvanized_steel/mask_129.npy",
+      "bbox": [
+        488.0,
+        532.0,
+        43.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 130,
+      "crop": "database/sessions/galvanized_steel/crop_130.png",
+      "mask": "database/sessions/galvanized_steel/mask_130.npy",
+      "bbox": [
+        578.0,
+        560.0,
+        112.0,
+        98.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 131,
+      "crop": "database/sessions/galvanized_steel/crop_131.png",
+      "mask": "database/sessions/galvanized_steel/mask_131.npy",
+      "bbox": [
+        470.0,
+        577.0,
+        82.0,
+        75.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 132,
+      "crop": "database/sessions/galvanized_steel/crop_132.png",
+      "mask": "database/sessions/galvanized_steel/mask_132.npy",
+      "bbox": [
+        143.0,
+        846.0,
+        47.0,
+        27.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 133,
+      "crop": "database/sessions/galvanized_steel/crop_133.png",
+      "mask": "database/sessions/galvanized_steel/mask_133.npy",
+      "bbox": [
+        741.0,
+        673.0,
+        22.0,
+        61.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 134,
+      "crop": "database/sessions/galvanized_steel/crop_134.png",
+      "mask": "database/sessions/galvanized_steel/mask_134.npy",
+      "bbox": [
+        392.0,
+        497.0,
+        128.0,
+        57.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 135,
+      "crop": "database/sessions/galvanized_steel/crop_135.png",
+      "mask": "database/sessions/galvanized_steel/mask_135.npy",
+      "bbox": [
+        4.0,
+        863.0,
+        44.0,
+        59.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 136,
+      "crop": "database/sessions/galvanized_steel/crop_136.png",
+      "mask": "database/sessions/galvanized_steel/mask_136.npy",
+      "bbox": [
+        807.0,
+        371.0,
+        25.0,
+        54.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 137,
+      "crop": "database/sessions/galvanized_steel/crop_137.png",
+      "mask": "database/sessions/galvanized_steel/mask_137.npy",
+      "bbox": [
+        365.0,
+        823.0,
+        294.0,
+        169.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 138,
+      "crop": "database/sessions/galvanized_steel/crop_138.png",
+      "mask": "database/sessions/galvanized_steel/mask_138.npy",
+      "bbox": [
+        357.0,
+        557.0,
+        135.0,
+        107.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 139,
+      "crop": "database/sessions/galvanized_steel/crop_139.png",
+      "mask": "database/sessions/galvanized_steel/mask_139.npy",
+      "bbox": [
+        732.0,
+        877.0,
+        53.0,
+        117.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 140,
+      "crop": "database/sessions/galvanized_steel/crop_140.png",
+      "mask": "database/sessions/galvanized_steel/mask_140.npy",
+      "bbox": [
+        455.0,
+        716.0,
+        96.0,
+        101.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 141,
+      "crop": "database/sessions/galvanized_steel/crop_141.png",
+      "mask": "database/sessions/galvanized_steel/mask_141.npy",
+      "bbox": [
+        388.0,
+        487.0,
+        141.0,
+        80.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 142,
+      "crop": "database/sessions/galvanized_steel/crop_142.png",
+      "mask": "database/sessions/galvanized_steel/mask_142.npy",
+      "bbox": [
+        439.0,
+        482.0,
+        23.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 143,
+      "crop": "database/sessions/galvanized_steel/crop_143.png",
+      "mask": "database/sessions/galvanized_steel/mask_143.npy",
+      "bbox": [
+        450.0,
+        333.0,
+        106.0,
+        66.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 144,
+      "crop": "database/sessions/galvanized_steel/crop_144.png",
+      "mask": "database/sessions/galvanized_steel/mask_144.npy",
+      "bbox": [
+        0.0,
+        608.0,
+        234.0,
+        239.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 145,
+      "crop": "database/sessions/galvanized_steel/crop_145.png",
+      "mask": "database/sessions/galvanized_steel/mask_145.npy",
+      "bbox": [
+        632.0,
+        802.0,
+        82.0,
+        159.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 146,
+      "crop": "database/sessions/galvanized_steel/crop_146.png",
+      "mask": "database/sessions/galvanized_steel/mask_146.npy",
+      "bbox": [
+        1186.0,
+        36.0,
+        343.0,
+        254.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 147,
+      "crop": "database/sessions/galvanized_steel/crop_147.png",
+      "mask": "database/sessions/galvanized_steel/mask_147.npy",
+      "bbox": [
+        773.0,
+        181.0,
+        155.0,
+        67.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 148,
+      "crop": "database/sessions/galvanized_steel/crop_148.png",
+      "mask": "database/sessions/galvanized_steel/mask_148.npy",
+      "bbox": [
+        1102.0,
+        22.0,
+        145.0,
+        94.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 149,
+      "crop": "database/sessions/galvanized_steel/crop_149.png",
+      "mask": "database/sessions/galvanized_steel/mask_149.npy",
+      "bbox": [
+        1396.0,
+        302.0,
+        131.0,
+        61.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 150,
+      "crop": "database/sessions/galvanized_steel/crop_150.png",
+      "mask": "database/sessions/galvanized_steel/mask_150.npy",
+      "bbox": [
+        686.0,
+        259.0,
+        115.0,
+        339.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 151,
+      "crop": "database/sessions/galvanized_steel/crop_151.png",
+      "mask": "database/sessions/galvanized_steel/mask_151.npy",
+      "bbox": [
+        657.0,
+        247.0,
+        72.0,
+        289.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 152,
+      "crop": "database/sessions/galvanized_steel/crop_152.png",
+      "mask": "database/sessions/galvanized_steel/mask_152.npy",
+      "bbox": [
+        718.0,
+        270.0,
+        108.0,
+        209.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 153,
+      "crop": "database/sessions/galvanized_steel/crop_153.png",
+      "mask": "database/sessions/galvanized_steel/mask_153.npy",
+      "bbox": [
+        1274.0,
+        268.0,
+        76.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 154,
+      "crop": "database/sessions/galvanized_steel/crop_154.png",
+      "mask": "database/sessions/galvanized_steel/mask_154.npy",
+      "bbox": [
+        638.0,
+        225.0,
+        61.0,
+        339.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 155,
+      "crop": "database/sessions/galvanized_steel/crop_155.png",
+      "mask": "database/sessions/galvanized_steel/mask_155.npy",
+      "bbox": [
+        1365.0,
+        283.0,
+        142.0,
+        41.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 156,
+      "crop": "database/sessions/galvanized_steel/crop_156.png",
+      "mask": "database/sessions/galvanized_steel/mask_156.npy",
+      "bbox": [
+        753.0,
+        50.0,
+        38.0,
+        24.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 157,
+      "crop": "database/sessions/galvanized_steel/crop_157.png",
+      "mask": "database/sessions/galvanized_steel/mask_157.npy",
+      "bbox": [
+        812.0,
+        167.0,
+        165.0,
+        57.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 158,
+      "crop": "database/sessions/galvanized_steel/crop_158.png",
+      "mask": "database/sessions/galvanized_steel/mask_158.npy",
+      "bbox": [
+        1095.0,
+        73.0,
+        127.0,
+        76.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 159,
+      "crop": "database/sessions/galvanized_steel/crop_159.png",
+      "mask": "database/sessions/galvanized_steel/mask_159.npy",
+      "bbox": [
+        1048.0,
+        132.0,
+        107.0,
+        77.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 160,
+      "crop": "database/sessions/galvanized_steel/crop_160.png",
+      "mask": "database/sessions/galvanized_steel/mask_160.npy",
+      "bbox": [
+        1285.0,
+        305.0,
+        69.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 161,
+      "crop": "database/sessions/galvanized_steel/crop_161.png",
+      "mask": "database/sessions/galvanized_steel/mask_161.npy",
+      "bbox": [
+        731.0,
+        10.0,
+        82.0,
+        107.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 162,
+      "crop": "database/sessions/galvanized_steel/crop_162.png",
+      "mask": "database/sessions/galvanized_steel/mask_162.npy",
+      "bbox": [
+        826.0,
+        288.0,
+        34.0,
+        148.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 163,
+      "crop": "database/sessions/galvanized_steel/crop_163.png",
+      "mask": "database/sessions/galvanized_steel/mask_163.npy",
+      "bbox": [
+        896.0,
+        269.0,
+        206.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 164,
+      "crop": "database/sessions/galvanized_steel/crop_164.png",
+      "mask": "database/sessions/galvanized_steel/mask_164.npy",
+      "bbox": [
+        810.0,
+        25.0,
+        36.0,
+        83.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 165,
+      "crop": "database/sessions/galvanized_steel/crop_165.png",
+      "mask": "database/sessions/galvanized_steel/mask_165.npy",
+      "bbox": [
+        857.0,
+        467.0,
+        66.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 166,
+      "crop": "database/sessions/galvanized_steel/crop_166.png",
+      "mask": "database/sessions/galvanized_steel/mask_166.npy",
+      "bbox": [
+        822.0,
+        150.0,
+        210.0,
+        57.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 167,
+      "crop": "database/sessions/galvanized_steel/crop_167.png",
+      "mask": "database/sessions/galvanized_steel/mask_167.npy",
+      "bbox": [
+        920.0,
+        143.0,
+        147.0,
+        19.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 168,
+      "crop": "database/sessions/galvanized_steel/crop_168.png",
+      "mask": "database/sessions/galvanized_steel/mask_168.npy",
+      "bbox": [
+        633.0,
+        186.0,
+        56.0,
+        25.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 169,
+      "crop": "database/sessions/galvanized_steel/crop_169.png",
+      "mask": "database/sessions/galvanized_steel/mask_169.npy",
+      "bbox": [
+        863.0,
+        538.0,
+        48.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 170,
+      "crop": "database/sessions/galvanized_steel/crop_170.png",
+      "mask": "database/sessions/galvanized_steel/mask_170.npy",
+      "bbox": [
+        617.0,
+        554.0,
+        56.0,
+        18.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 171,
+      "crop": "database/sessions/galvanized_steel/crop_171.png",
+      "mask": "database/sessions/galvanized_steel/mask_171.npy",
+      "bbox": [
+        836.0,
+        227.0,
+        321.0,
+        54.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 172,
+      "crop": "database/sessions/galvanized_steel/crop_172.png",
+      "mask": "database/sessions/galvanized_steel/mask_172.npy",
+      "bbox": [
+        1410.0,
+        393.0,
+        125.0,
+        51.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 173,
+      "crop": "database/sessions/galvanized_steel/crop_173.png",
+      "mask": "database/sessions/galvanized_steel/mask_173.npy",
+      "bbox": [
+        1064.0,
+        565.0,
+        38.0,
+        63.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 174,
+      "crop": "database/sessions/galvanized_steel/crop_174.png",
+      "mask": "database/sessions/galvanized_steel/mask_174.npy",
+      "bbox": [
+        710.0,
+        119.0,
+        58.0,
+        64.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 175,
+      "crop": "database/sessions/galvanized_steel/crop_175.png",
+      "mask": "database/sessions/galvanized_steel/mask_175.npy",
+      "bbox": [
+        838.0,
+        16.0,
+        193.0,
+        21.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 176,
+      "crop": "database/sessions/galvanized_steel/crop_176.png",
+      "mask": "database/sessions/galvanized_steel/mask_176.npy",
+      "bbox": [
+        589.0,
+        120.0,
+        118.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 177,
+      "crop": "database/sessions/galvanized_steel/crop_177.png",
+      "mask": "database/sessions/galvanized_steel/mask_177.npy",
+      "bbox": [
+        1007.0,
+        399.0,
+        44.0,
+        31.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 178,
+      "crop": "database/sessions/galvanized_steel/crop_178.png",
+      "mask": "database/sessions/galvanized_steel/mask_178.npy",
+      "bbox": [
+        761.0,
+        286.0,
+        75.0,
+        99.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 179,
+      "crop": "database/sessions/galvanized_steel/crop_179.png",
+      "mask": "database/sessions/galvanized_steel/mask_179.npy",
+      "bbox": [
+        696.0,
+        341.0,
+        47.0,
+        167.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 180,
+      "crop": "database/sessions/galvanized_steel/crop_180.png",
+      "mask": "database/sessions/galvanized_steel/mask_180.npy",
+      "bbox": [
+        827.0,
+        17.0,
+        279.0,
+        122.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 181,
+      "crop": "database/sessions/galvanized_steel/crop_181.png",
+      "mask": "database/sessions/galvanized_steel/mask_181.npy",
+      "bbox": [
+        861.0,
+        289.0,
+        323.0,
+        70.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 182,
+      "crop": "database/sessions/galvanized_steel/crop_182.png",
+      "mask": "database/sessions/galvanized_steel/mask_182.npy",
+      "bbox": [
+        1211.0,
+        326.0,
+        136.0,
+        67.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 183,
+      "crop": "database/sessions/galvanized_steel/crop_183.png",
+      "mask": "database/sessions/galvanized_steel/mask_183.npy",
+      "bbox": [
+        1012.0,
+        310.0,
+        172.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 184,
+      "crop": "database/sessions/galvanized_steel/crop_184.png",
+      "mask": "database/sessions/galvanized_steel/mask_184.npy",
+      "bbox": [
+        608.0,
+        57.0,
+        115.0,
+        86.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 185,
+      "crop": "database/sessions/galvanized_steel/crop_185.png",
+      "mask": "database/sessions/galvanized_steel/mask_185.npy",
+      "bbox": [
+        865.0,
+        289.0,
+        133.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 186,
+      "crop": "database/sessions/galvanized_steel/crop_186.png",
+      "mask": "database/sessions/galvanized_steel/mask_186.npy",
+      "bbox": [
+        866.0,
+        307.0,
+        80.0,
+        65.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 187,
+      "crop": "database/sessions/galvanized_steel/crop_187.png",
+      "mask": "database/sessions/galvanized_steel/mask_187.npy",
+      "bbox": [
+        1239.0,
+        364.0,
+        29.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 188,
+      "crop": "database/sessions/galvanized_steel/crop_188.png",
+      "mask": "database/sessions/galvanized_steel/mask_188.npy",
+      "bbox": [
+        686.0,
+        259.0,
+        81.0,
+        234.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 189,
+      "crop": "database/sessions/galvanized_steel/crop_189.png",
+      "mask": "database/sessions/galvanized_steel/mask_189.npy",
+      "bbox": [
+        1396.0,
+        302.0,
+        139.0,
+        133.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 190,
+      "crop": "database/sessions/galvanized_steel/crop_190.png",
+      "mask": "database/sessions/galvanized_steel/mask_190.npy",
+      "bbox": [
+        867.0,
+        335.0,
+        38.0,
+        51.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 191,
+      "crop": "database/sessions/galvanized_steel/crop_191.png",
+      "mask": "database/sessions/galvanized_steel/mask_191.npy",
+      "bbox": [
+        828.0,
+        78.0,
+        279.0,
+        60.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 192,
+      "crop": "database/sessions/galvanized_steel/crop_192.png",
+      "mask": "database/sessions/galvanized_steel/mask_192.npy",
+      "bbox": [
+        1305.0,
+        594.0,
+        30.0,
+        38.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 193,
+      "crop": "database/sessions/galvanized_steel/crop_193.png",
+      "mask": "database/sessions/galvanized_steel/mask_193.npy",
+      "bbox": [
+        838.0,
+        16.0,
+        196.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 194,
+      "crop": "database/sessions/galvanized_steel/crop_194.png",
+      "mask": "database/sessions/galvanized_steel/mask_194.npy",
+      "bbox": [
+        21.0,
+        216.0,
+        227.0,
+        132.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 195,
+      "crop": "database/sessions/galvanized_steel/crop_195.png",
+      "mask": "database/sessions/galvanized_steel/mask_195.npy",
+      "bbox": [
+        120.0,
+        20.0,
+        53.0,
+        198.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 196,
+      "crop": "database/sessions/galvanized_steel/crop_196.png",
+      "mask": "database/sessions/galvanized_steel/mask_196.npy",
+      "bbox": [
+        443.0,
+        158.0,
+        36.0,
+        126.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 197,
+      "crop": "database/sessions/galvanized_steel/crop_197.png",
+      "mask": "database/sessions/galvanized_steel/mask_197.npy",
+      "bbox": [
+        481.0,
+        149.0,
+        67.0,
+        116.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 198,
+      "crop": "database/sessions/galvanized_steel/crop_198.png",
+      "mask": "database/sessions/galvanized_steel/mask_198.npy",
+      "bbox": [
+        319.0,
+        251.0,
+        126.0,
+        59.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 199,
+      "crop": "database/sessions/galvanized_steel/crop_199.png",
+      "mask": "database/sessions/galvanized_steel/mask_199.npy",
+      "bbox": [
+        383.0,
+        15.0,
+        38.0,
+        235.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 200,
+      "crop": "database/sessions/galvanized_steel/crop_200.png",
+      "mask": "database/sessions/galvanized_steel/mask_200.npy",
+      "bbox": [
+        446.0,
+        20.0,
+        183.0,
+        129.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 201,
+      "crop": "database/sessions/galvanized_steel/crop_201.png",
+      "mask": "database/sessions/galvanized_steel/mask_201.npy",
+      "bbox": [
+        613.0,
+        227.0,
+        52.0,
+        329.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 202,
+      "crop": "database/sessions/galvanized_steel/crop_202.png",
+      "mask": "database/sessions/galvanized_steel/mask_202.npy",
+      "bbox": [
+        62.0,
+        40.0,
+        35.0,
+        122.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 203,
+      "crop": "database/sessions/galvanized_steel/crop_203.png",
+      "mask": "database/sessions/galvanized_steel/mask_203.npy",
+      "bbox": [
+        32.0,
+        315.0,
+        161.0,
+        106.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 204,
+      "crop": "database/sessions/galvanized_steel/crop_204.png",
+      "mask": "database/sessions/galvanized_steel/mask_204.npy",
+      "bbox": [
+        46.0,
+        257.0,
+        213.0,
+        119.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 205,
+      "crop": "database/sessions/galvanized_steel/crop_205.png",
+      "mask": "database/sessions/galvanized_steel/mask_205.npy",
+      "bbox": [
+        21.0,
+        144.0,
+        61.0,
+        76.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 206,
+      "crop": "database/sessions/galvanized_steel/crop_206.png",
+      "mask": "database/sessions/galvanized_steel/mask_206.npy",
+      "bbox": [
+        131.0,
+        20.0,
+        258.0,
+        197.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 207,
+      "crop": "database/sessions/galvanized_steel/crop_207.png",
+      "mask": "database/sessions/galvanized_steel/mask_207.npy",
+      "bbox": [
+        410.0,
+        322.0,
+        48.0,
+        205.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 208,
+      "crop": "database/sessions/galvanized_steel/crop_208.png",
+      "mask": "database/sessions/galvanized_steel/mask_208.npy",
+      "bbox": [
+        502.0,
+        263.0,
+        79.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 209,
+      "crop": "database/sessions/galvanized_steel/crop_209.png",
+      "mask": "database/sessions/galvanized_steel/mask_209.npy",
+      "bbox": [
+        471.0,
+        279.0,
+        117.0,
+        56.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 210,
+      "crop": "database/sessions/galvanized_steel/crop_210.png",
+      "mask": "database/sessions/galvanized_steel/mask_210.npy",
+      "bbox": [
+        227.0,
+        22.0,
+        156.0,
+        186.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 211,
+      "crop": "database/sessions/galvanized_steel/crop_211.png",
+      "mask": "database/sessions/galvanized_steel/mask_211.npy",
+      "bbox": [
+        229.0,
+        200.0,
+        120.0,
+        47.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 212,
+      "crop": "database/sessions/galvanized_steel/crop_212.png",
+      "mask": "database/sessions/galvanized_steel/mask_212.npy",
+      "bbox": [
+        328.0,
+        234.0,
+        43.0,
+        38.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 213,
+      "crop": "database/sessions/galvanized_steel/crop_213.png",
+      "mask": "database/sessions/galvanized_steel/mask_213.npy",
+      "bbox": [
+        452.0,
+        143.0,
+        46.0,
+        22.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 214,
+      "crop": "database/sessions/galvanized_steel/crop_214.png",
+      "mask": "database/sessions/galvanized_steel/mask_214.npy",
+      "bbox": [
+        734.0,
+        11.0,
+        111.0,
+        106.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 215,
+      "crop": "database/sessions/galvanized_steel/crop_215.png",
+      "mask": "database/sessions/galvanized_steel/mask_215.npy",
+      "bbox": [
+        213.0,
+        256.0,
+        115.0,
+        56.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 216,
+      "crop": "database/sessions/galvanized_steel/crop_216.png",
+      "mask": "database/sessions/galvanized_steel/mask_216.npy",
+      "bbox": [
+        116.0,
+        312.0,
+        203.0,
+        262.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 217,
+      "crop": "database/sessions/galvanized_steel/crop_217.png",
+      "mask": "database/sessions/galvanized_steel/mask_217.npy",
+      "bbox": [
+        540.0,
+        218.0,
+        54.0,
+        37.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 218,
+      "crop": "database/sessions/galvanized_steel/crop_218.png",
+      "mask": "database/sessions/galvanized_steel/mask_218.npy",
+      "bbox": [
+        190.0,
+        388.0,
+        43.0,
+        98.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 219,
+      "crop": "database/sessions/galvanized_steel/crop_219.png",
+      "mask": "database/sessions/galvanized_steel/mask_219.npy",
+      "bbox": [
+        686.0,
+        135.0,
+        27.0,
+        57.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 220,
+      "crop": "database/sessions/galvanized_steel/crop_220.png",
+      "mask": "database/sessions/galvanized_steel/mask_220.npy",
+      "bbox": [
+        756.0,
+        149.0,
+        33.0,
+        22.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 221,
+      "crop": "database/sessions/galvanized_steel/crop_221.png",
+      "mask": "database/sessions/galvanized_steel/mask_221.npy",
+      "bbox": [
+        676.0,
+        216.0,
+        46.0,
+        39.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 222,
+      "crop": "database/sessions/galvanized_steel/crop_222.png",
+      "mask": "database/sessions/galvanized_steel/mask_222.npy",
+      "bbox": [
+        443.0,
+        367.0,
+        113.0,
+        93.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 223,
+      "crop": "database/sessions/galvanized_steel/crop_223.png",
+      "mask": "database/sessions/galvanized_steel/mask_223.npy",
+      "bbox": [
+        807.0,
+        347.0,
+        30.0,
+        55.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 224,
+      "crop": "database/sessions/galvanized_steel/crop_224.png",
+      "mask": "database/sessions/galvanized_steel/mask_224.npy",
+      "bbox": [
+        52.0,
+        502.0,
+        68.0,
+        166.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 225,
+      "crop": "database/sessions/galvanized_steel/crop_225.png",
+      "mask": "database/sessions/galvanized_steel/mask_225.npy",
+      "bbox": [
+        32.0,
+        284.0,
+        225.0,
+        137.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 226,
+      "crop": "database/sessions/galvanized_steel/crop_226.png",
+      "mask": "database/sessions/galvanized_steel/mask_226.npy",
+      "bbox": [
+        637.0,
+        222.0,
+        19.0,
+        45.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 227,
+      "crop": "database/sessions/galvanized_steel/crop_227.png",
+      "mask": "database/sessions/galvanized_steel/mask_227.npy",
+      "bbox": [
+        364.0,
+        555.0,
+        186.0,
+        124.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 228,
+      "crop": "database/sessions/galvanized_steel/crop_228.png",
+      "mask": "database/sessions/galvanized_steel/mask_228.npy",
+      "bbox": [
+        704.0,
+        203.0,
+        137.0,
+        83.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 229,
+      "crop": "database/sessions/galvanized_steel/crop_229.png",
+      "mask": "database/sessions/galvanized_steel/mask_229.npy",
+      "bbox": [
+        860.0,
+        304.0,
+        63.0,
+        70.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 230,
+      "crop": "database/sessions/galvanized_steel/crop_230.png",
+      "mask": "database/sessions/galvanized_steel/mask_230.npy",
+      "bbox": [
+        770.0,
+        466.0,
+        94.0,
+        85.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 231,
+      "crop": "database/sessions/galvanized_steel/crop_231.png",
+      "mask": "database/sessions/galvanized_steel/mask_231.npy",
+      "bbox": [
+        123.0,
+        511.0,
+        118.0,
+        29.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 232,
+      "crop": "database/sessions/galvanized_steel/crop_232.png",
+      "mask": "database/sessions/galvanized_steel/mask_232.npy",
+      "bbox": [
+        446.0,
+        98.0,
+        103.0,
+        50.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 233,
+      "crop": "database/sessions/galvanized_steel/crop_233.png",
+      "mask": "database/sessions/galvanized_steel/mask_233.npy",
+      "bbox": [
+        722.0,
+        270.0,
+        84.0,
+        171.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 234,
+      "crop": "database/sessions/galvanized_steel/crop_234.png",
+      "mask": "database/sessions/galvanized_steel/mask_234.npy",
+      "bbox": [
+        0.0,
+        0.0,
+        1535.0,
+        316.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 235,
+      "crop": "database/sessions/galvanized_steel/crop_235.png",
+      "mask": "database/sessions/galvanized_steel/mask_235.npy",
+      "bbox": [
+        766.0,
+        116.0,
+        284.0,
+        31.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 236,
+      "crop": "database/sessions/galvanized_steel/crop_236.png",
+      "mask": "database/sessions/galvanized_steel/mask_236.npy",
+      "bbox": [
+        157.0,
+        21.0,
+        41.0,
+        193.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 237,
+      "crop": "database/sessions/galvanized_steel/crop_237.png",
+      "mask": "database/sessions/galvanized_steel/mask_237.npy",
+      "bbox": [
+        97.0,
+        55.0,
+        39.0,
+        151.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 238,
+      "crop": "database/sessions/galvanized_steel/crop_238.png",
+      "mask": "database/sessions/galvanized_steel/mask_238.npy",
+      "bbox": [
+        1065.0,
+        793.0,
+        135.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 239,
+      "crop": "database/sessions/galvanized_steel/crop_239.png",
+      "mask": "database/sessions/galvanized_steel/mask_239.npy",
+      "bbox": [
+        1307.0,
+        28.0,
+        133.0,
+        53.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 240,
+      "crop": "database/sessions/galvanized_steel/crop_240.png",
+      "mask": "database/sessions/galvanized_steel/mask_240.npy",
+      "bbox": [
+        0.0,
+        0.0,
+        1535.0,
+        143.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 241,
+      "crop": "database/sessions/galvanized_steel/crop_241.png",
+      "mask": "database/sessions/galvanized_steel/mask_241.npy",
+      "bbox": [
+        846.0,
+        320.0,
+        154.0,
+        116.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 242,
+      "crop": "database/sessions/galvanized_steel/crop_242.png",
+      "mask": "database/sessions/galvanized_steel/mask_242.npy",
+      "bbox": [
+        1030.0,
+        709.0,
+        28.0,
+        83.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 243,
+      "crop": "database/sessions/galvanized_steel/crop_243.png",
+      "mask": "database/sessions/galvanized_steel/mask_243.npy",
+      "bbox": [
+        831.0,
+        97.0,
+        273.0,
+        38.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 244,
+      "crop": "database/sessions/galvanized_steel/crop_244.png",
+      "mask": "database/sessions/galvanized_steel/mask_244.npy",
+      "bbox": [
+        351.0,
+        686.0,
+        195.0,
+        199.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 245,
+      "crop": "database/sessions/galvanized_steel/crop_245.png",
+      "mask": "database/sessions/galvanized_steel/mask_245.npy",
+      "bbox": [
+        1057.0,
+        689.0,
+        126.0,
+        113.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 246,
+      "crop": "database/sessions/galvanized_steel/crop_246.png",
+      "mask": "database/sessions/galvanized_steel/mask_246.npy",
+      "bbox": [
+        1208.0,
+        691.0,
+        30.0,
+        174.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 247,
+      "crop": "database/sessions/galvanized_steel/crop_247.png",
+      "mask": "database/sessions/galvanized_steel/mask_247.npy",
+      "bbox": [
+        1165.0,
+        359.0,
+        20.0,
+        109.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 248,
+      "crop": "database/sessions/galvanized_steel/crop_248.png",
+      "mask": "database/sessions/galvanized_steel/mask_248.npy",
+      "bbox": [
+        73.0,
+        172.0,
+        80.0,
+        72.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 249,
+      "crop": "database/sessions/galvanized_steel/crop_249.png",
+      "mask": "database/sessions/galvanized_steel/mask_249.npy",
+      "bbox": [
+        13.0,
+        771.0,
+        224.0,
+        203.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 250,
+      "crop": "database/sessions/galvanized_steel/crop_250.png",
+      "mask": "database/sessions/galvanized_steel/mask_250.npy",
+      "bbox": [
+        0.0,
+        969.0,
+        1535.0,
+        54.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 251,
+      "crop": "database/sessions/galvanized_steel/crop_251.png",
+      "mask": "database/sessions/galvanized_steel/mask_251.npy",
+      "bbox": [
+        176.0,
+        31.0,
+        89.0,
+        183.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 252,
+      "crop": "database/sessions/galvanized_steel/crop_252.png",
+      "mask": "database/sessions/galvanized_steel/mask_252.npy",
+      "bbox": [
+        0.0,
+        405.0,
+        150.0,
+        65.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 253,
+      "crop": "database/sessions/galvanized_steel/crop_253.png",
+      "mask": "database/sessions/galvanized_steel/mask_253.npy",
+      "bbox": [
+        1108.0,
+        512.0,
+        26.0,
+        128.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 254,
+      "crop": "database/sessions/galvanized_steel/crop_254.png",
+      "mask": "database/sessions/galvanized_steel/mask_254.npy",
+      "bbox": [
+        1221.0,
+        291.0,
+        134.0,
+        56.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 255,
+      "crop": "database/sessions/galvanized_steel/crop_255.png",
+      "mask": "database/sessions/galvanized_steel/mask_255.npy",
+      "bbox": [
+        947.0,
+        520.0,
+        116.0,
+        17.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 256,
+      "crop": "database/sessions/galvanized_steel/crop_256.png",
+      "mask": "database/sessions/galvanized_steel/mask_256.npy",
+      "bbox": [
+        452.0,
+        28.0,
+        31.0,
+        71.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 257,
+      "crop": "database/sessions/galvanized_steel/crop_257.png",
+      "mask": "database/sessions/galvanized_steel/mask_257.npy",
+      "bbox": [
+        10.0,
+        930.0,
+        101.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 258,
+      "crop": "database/sessions/galvanized_steel/crop_258.png",
+      "mask": "database/sessions/galvanized_steel/mask_258.npy",
+      "bbox": [
+        665.0,
+        881.0,
+        52.0,
+        79.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 259,
+      "crop": "database/sessions/galvanized_steel/crop_259.png",
+      "mask": "database/sessions/galvanized_steel/mask_259.npy",
+      "bbox": [
+        187.0,
+        365.0,
+        99.0,
+        26.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 260,
+      "crop": "database/sessions/galvanized_steel/crop_260.png",
+      "mask": "database/sessions/galvanized_steel/mask_260.npy",
+      "bbox": [
+        552.0,
+        21.0,
+        77.0,
+        89.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 261,
+      "crop": "database/sessions/galvanized_steel/crop_261.png",
+      "mask": "database/sessions/galvanized_steel/mask_261.npy",
+      "bbox": [
+        132.0,
+        519.0,
+        110.0,
+        22.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 262,
+      "crop": "database/sessions/galvanized_steel/crop_262.png",
+      "mask": "database/sessions/galvanized_steel/mask_262.npy",
+      "bbox": [
+        444.0,
+        313.0,
+        115.0,
+        145.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 263,
+      "crop": "database/sessions/galvanized_steel/crop_263.png",
+      "mask": "database/sessions/galvanized_steel/mask_263.npy",
+      "bbox": [
+        686.0,
+        660.0,
+        43.0,
+        102.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 264,
+      "crop": "database/sessions/galvanized_steel/crop_264.png",
+      "mask": "database/sessions/galvanized_steel/mask_264.npy",
+      "bbox": [
+        705.0,
+        980.0,
+        830.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 265,
+      "crop": "database/sessions/galvanized_steel/crop_265.png",
+      "mask": "database/sessions/galvanized_steel/mask_265.npy",
+      "bbox": [
+        598.0,
+        781.0,
+        117.0,
+        237.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 266,
+      "crop": "database/sessions/galvanized_steel/crop_266.png",
+      "mask": "database/sessions/galvanized_steel/mask_266.npy",
+      "bbox": [
+        1087.0,
+        405.0,
+        88.0,
+        74.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 267,
+      "crop": "database/sessions/galvanized_steel/crop_267.png",
+      "mask": "database/sessions/galvanized_steel/mask_267.npy",
+      "bbox": [
+        930.0,
+        526.0,
+        30.0,
+        109.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 268,
+      "crop": "database/sessions/galvanized_steel/crop_268.png",
+      "mask": "database/sessions/galvanized_steel/mask_268.npy",
+      "bbox": [
+        982.0,
+        205.0,
+        179.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 269,
+      "crop": "database/sessions/galvanized_steel/crop_269.png",
+      "mask": "database/sessions/galvanized_steel/mask_269.npy",
+      "bbox": [
+        1147.0,
+        89.0,
+        70.0,
+        54.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 270,
+      "crop": "database/sessions/galvanized_steel/crop_270.png",
+      "mask": "database/sessions/galvanized_steel/mask_270.npy",
+      "bbox": [
+        117.0,
+        483.0,
+        140.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 271,
+      "crop": "database/sessions/galvanized_steel/crop_271.png",
+      "mask": "database/sessions/galvanized_steel/mask_271.npy",
+      "bbox": [
+        852.0,
+        973.0,
+        313.0,
+        28.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 272,
+      "crop": "database/sessions/galvanized_steel/crop_272.png",
+      "mask": "database/sessions/galvanized_steel/mask_272.npy",
+      "bbox": [
+        1213.0,
+        254.0,
+        49.0,
+        39.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 273,
+      "crop": "database/sessions/galvanized_steel/crop_273.png",
+      "mask": "database/sessions/galvanized_steel/mask_273.npy",
+      "bbox": [
+        97.0,
+        507.0,
+        55.0,
+        70.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 274,
+      "crop": "database/sessions/galvanized_steel/crop_274.png",
+      "mask": "database/sessions/galvanized_steel/mask_274.npy",
+      "bbox": [
+        1284.0,
+        800.0,
+        50.0,
+        68.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 275,
+      "crop": "database/sessions/galvanized_steel/crop_275.png",
+      "mask": "database/sessions/galvanized_steel/mask_275.npy",
+      "bbox": [
+        1346.0,
+        557.0,
+        103.0,
+        161.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 276,
+      "crop": "database/sessions/galvanized_steel/crop_276.png",
+      "mask": "database/sessions/galvanized_steel/mask_276.npy",
+      "bbox": [
+        825.0,
+        604.0,
+        75.0,
+        54.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 277,
+      "crop": "database/sessions/galvanized_steel/crop_277.png",
+      "mask": "database/sessions/galvanized_steel/mask_277.npy",
+      "bbox": [
+        997.0,
+        261.0,
+        110.0,
+        17.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 278,
+      "crop": "database/sessions/galvanized_steel/crop_278.png",
+      "mask": "database/sessions/galvanized_steel/mask_278.npy",
+      "bbox": [
+        167.0,
+        539.0,
+        51.0,
+        47.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 279,
+      "crop": "database/sessions/galvanized_steel/crop_279.png",
+      "mask": "database/sessions/galvanized_steel/mask_279.npy",
+      "bbox": [
+        412.0,
+        625.0,
+        59.0,
+        57.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 280,
+      "crop": "database/sessions/galvanized_steel/crop_280.png",
+      "mask": "database/sessions/galvanized_steel/mask_280.npy",
+      "bbox": [
+        839.0,
+        247.0,
+        179.0,
+        32.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 281,
+      "crop": "database/sessions/galvanized_steel/crop_281.png",
+      "mask": "database/sessions/galvanized_steel/mask_281.npy",
+      "bbox": [
+        453.0,
+        335.0,
+        101.0,
+        107.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 282,
+      "crop": "database/sessions/galvanized_steel/crop_282.png",
+      "mask": "database/sessions/galvanized_steel/mask_282.npy",
+      "bbox": [
+        713.0,
+        997.0,
+        822.0,
+        26.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 283,
+      "crop": "database/sessions/galvanized_steel/crop_283.png",
+      "mask": "database/sessions/galvanized_steel/mask_283.npy",
+      "bbox": [
+        540.0,
+        218.0,
+        68.0,
+        47.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 284,
+      "crop": "database/sessions/galvanized_steel/crop_284.png",
+      "mask": "database/sessions/galvanized_steel/mask_284.npy",
+      "bbox": [
+        1351.0,
+        932.0,
+        184.0,
+        62.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 285,
+      "crop": "database/sessions/galvanized_steel/crop_285.png",
+      "mask": "database/sessions/galvanized_steel/mask_285.npy",
+      "bbox": [
+        768.0,
+        236.0,
+        62.0,
+        49.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 286,
+      "crop": "database/sessions/galvanized_steel/crop_286.png",
+      "mask": "database/sessions/galvanized_steel/mask_286.npy",
+      "bbox": [
+        386.0,
+        522.0,
+        61.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 287,
+      "crop": "database/sessions/galvanized_steel/crop_287.png",
+      "mask": "database/sessions/galvanized_steel/mask_287.npy",
+      "bbox": [
+        700.0,
+        947.0,
+        77.0,
+        35.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 288,
+      "crop": "database/sessions/galvanized_steel/crop_288.png",
+      "mask": "database/sessions/galvanized_steel/mask_288.npy",
+      "bbox": [
+        1273.0,
+        673.0,
+        60.0,
+        114.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 289,
+      "crop": "database/sessions/galvanized_steel/crop_289.png",
+      "mask": "database/sessions/galvanized_steel/mask_289.npy",
+      "bbox": [
+        248.0,
+        405.0,
+        134.0,
+        317.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 290,
+      "crop": "database/sessions/galvanized_steel/crop_290.png",
+      "mask": "database/sessions/galvanized_steel/mask_290.npy",
+      "bbox": [
+        684.0,
+        537.0,
+        93.0,
+        106.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 291,
+      "crop": "database/sessions/galvanized_steel/crop_291.png",
+      "mask": "database/sessions/galvanized_steel/mask_291.npy",
+      "bbox": [
+        876.0,
+        644.0,
+        155.0,
+        100.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 292,
+      "crop": "database/sessions/galvanized_steel/crop_292.png",
+      "mask": "database/sessions/galvanized_steel/mask_292.npy",
+      "bbox": [
+        839.0,
+        207.0,
+        325.0,
+        72.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 293,
+      "crop": "database/sessions/galvanized_steel/crop_293.png",
+      "mask": "database/sessions/galvanized_steel/mask_293.npy",
+      "bbox": [
+        962.0,
+        730.0,
+        51.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 294,
+      "crop": "database/sessions/galvanized_steel/crop_294.png",
+      "mask": "database/sessions/galvanized_steel/mask_294.npy",
+      "bbox": [
+        1381.0,
+        457.0,
+        116.0,
+        219.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 295,
+      "crop": "database/sessions/galvanized_steel/crop_295.png",
+      "mask": "database/sessions/galvanized_steel/mask_295.npy",
+      "bbox": [
+        1224.0,
+        756.0,
+        69.0,
+        114.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 296,
+      "crop": "database/sessions/galvanized_steel/crop_296.png",
+      "mask": "database/sessions/galvanized_steel/mask_296.npy",
+      "bbox": [
+        276.0,
+        415.0,
+        53.0,
+        168.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 297,
+      "crop": "database/sessions/galvanized_steel/crop_297.png",
+      "mask": "database/sessions/galvanized_steel/mask_297.npy",
+      "bbox": [
+        714.0,
+        117.0,
+        335.0,
+        57.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 298,
+      "crop": "database/sessions/galvanized_steel/crop_298.png",
+      "mask": "database/sessions/galvanized_steel/mask_298.npy",
+      "bbox": [
+        59.0,
+        878.0,
+        70.0,
+        88.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 299,
+      "crop": "database/sessions/galvanized_steel/crop_299.png",
+      "mask": "database/sessions/galvanized_steel/mask_299.npy",
+      "bbox": [
+        321.0,
+        326.0,
+        97.0,
+        344.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 300,
+      "crop": "database/sessions/galvanized_steel/crop_300.png",
+      "mask": "database/sessions/galvanized_steel/mask_300.npy",
+      "bbox": [
+        1055.0,
+        809.0,
+        276.0,
+        160.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 301,
+      "crop": "database/sessions/galvanized_steel/crop_301.png",
+      "mask": "database/sessions/galvanized_steel/mask_301.npy",
+      "bbox": [
+        48.0,
+        530.0,
+        67.0,
+        164.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 302,
+      "crop": "database/sessions/galvanized_steel/crop_302.png",
+      "mask": "database/sessions/galvanized_steel/mask_302.npy",
+      "bbox": [
+        1005.0,
+        0.0,
+        530.0,
+        303.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 303,
+      "crop": "database/sessions/galvanized_steel/crop_303.png",
+      "mask": "database/sessions/galvanized_steel/mask_303.npy",
+      "bbox": [
+        863.0,
+        66.0,
+        191.0,
+        20.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 304,
+      "crop": "database/sessions/galvanized_steel/crop_304.png",
+      "mask": "database/sessions/galvanized_steel/mask_304.npy",
+      "bbox": [
+        1284.0,
+        678.0,
+        48.0,
+        87.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 305,
+      "crop": "database/sessions/galvanized_steel/crop_305.png",
+      "mask": "database/sessions/galvanized_steel/mask_305.npy",
+      "bbox": [
+        443.0,
+        425.0,
+        93.0,
+        33.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 306,
+      "crop": "database/sessions/galvanized_steel/crop_306.png",
+      "mask": "database/sessions/galvanized_steel/mask_306.npy",
+      "bbox": [
+        0.0,
+        8.0,
+        1535.0,
+        1010.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 307,
+      "crop": "database/sessions/galvanized_steel/crop_307.png",
+      "mask": "database/sessions/galvanized_steel/mask_307.npy",
+      "bbox": [
+        1092.0,
+        73.0,
+        70.0,
+        43.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 308,
+      "crop": "database/sessions/galvanized_steel/crop_308.png",
+      "mask": "database/sessions/galvanized_steel/mask_308.npy",
+      "bbox": [
+        1103.0,
+        274.0,
+        101.0,
+        52.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 309,
+      "crop": "database/sessions/galvanized_steel/crop_309.png",
+      "mask": "database/sessions/galvanized_steel/mask_309.npy",
+      "bbox": [
+        1449.0,
+        582.0,
+        37.0,
+        63.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 310,
+      "crop": "database/sessions/galvanized_steel/crop_310.png",
+      "mask": "database/sessions/galvanized_steel/mask_310.npy",
+      "bbox": [
+        1020.0,
+        628.0,
+        39.0,
+        76.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 311,
+      "crop": "database/sessions/galvanized_steel/crop_311.png",
+      "mask": "database/sessions/galvanized_steel/mask_311.npy",
+      "bbox": [
+        731.0,
+        316.0,
+        45.0,
+        112.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 312,
+      "crop": "database/sessions/galvanized_steel/crop_312.png",
+      "mask": "database/sessions/galvanized_steel/mask_312.npy",
+      "bbox": [
+        728.0,
+        602.0,
+        48.0,
+        40.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 313,
+      "crop": "database/sessions/galvanized_steel/crop_313.png",
+      "mask": "database/sessions/galvanized_steel/mask_313.npy",
+      "bbox": [
+        962.0,
+        528.0,
+        119.0,
+        35.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 314,
+      "crop": "database/sessions/galvanized_steel/crop_314.png",
+      "mask": "database/sessions/galvanized_steel/mask_314.npy",
+      "bbox": [
+        525.0,
+        357.0,
+        88.0,
+        264.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 315,
+      "crop": "database/sessions/galvanized_steel/crop_315.png",
+      "mask": "database/sessions/galvanized_steel/mask_315.npy",
+      "bbox": [
+        19.0,
+        249.0,
+        97.0,
+        36.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 316,
+      "crop": "database/sessions/galvanized_steel/crop_316.png",
+      "mask": "database/sessions/galvanized_steel/mask_316.npy",
+      "bbox": [
+        866.0,
+        701.0,
+        109.0,
+        119.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 317,
+      "crop": "database/sessions/galvanized_steel/crop_317.png",
+      "mask": "database/sessions/galvanized_steel/mask_317.npy",
+      "bbox": [
+        1356.0,
+        666.0,
+        63.0,
+        97.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 318,
+      "crop": "database/sessions/galvanized_steel/crop_318.png",
+      "mask": "database/sessions/galvanized_steel/mask_318.npy",
+      "bbox": [
+        943.0,
+        527.0,
+        181.0,
+        125.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 319,
+      "crop": "database/sessions/galvanized_steel/crop_319.png",
+      "mask": "database/sessions/galvanized_steel/mask_319.npy",
+      "bbox": [
+        788.0,
+        941.0,
+        42.0,
+        57.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 320,
+      "crop": "database/sessions/galvanized_steel/crop_320.png",
+      "mask": "database/sessions/galvanized_steel/mask_320.npy",
+      "bbox": [
+        485.0,
+        148.0,
+        49.0,
+        82.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 321,
+      "crop": "database/sessions/galvanized_steel/crop_321.png",
+      "mask": "database/sessions/galvanized_steel/mask_321.npy",
+      "bbox": [
+        1201.0,
+        621.0,
+        67.0,
+        33.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 322,
+      "crop": "database/sessions/galvanized_steel/crop_322.png",
+      "mask": "database/sessions/galvanized_steel/mask_322.npy",
+      "bbox": [
+        1211.0,
+        142.0,
+        93.0,
+        71.0
+      ],
+      "labeled": true
+    },
+    {
+      "index": 323,
+      "crop": "database/sessions/galvanized_steel/crop_323.png",
+      "mask": "database/sessions/galvanized_steel/mask_323.npy",
+      "bbox": [
+        337.0,
+        689.0,
+        28.0,
+        78.0
+      ],
+      "labeled": false
+    },
+    {
+      "index": 324,
+      "crop": "database/sessions/galvanized_steel/crop_324.png",
+      "mask": "database/sessions/galvanized_steel/mask_324.npy",
+      "bbox": [
+        726.0,
+        192.0,
+        51.0,
+        82.0
+      ],
+      "labeled": false
+    }
+  ]
+}

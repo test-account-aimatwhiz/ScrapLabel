@@ -1,0 +1,78 @@
+path: /home/matwhiz/ScrapLabeller/dataset
+train: images/train
+val: images/train
+nc: 73
+names:
+- metal
+- plastic
+- wire
+- bolt
+- nut
+- coated_structural_steel
+- hydrogen_storage_vessel
+- Galvanized conveyor frames
+- Galvanized_conveyor_frames
+- Zinc_coated_pipes
+- tube
+- cng_tanks
+- cng_tank
+- sealed_drum
+- chlorine_container
+- distillation_coloumn_section
+- medical_gas_cylinder
+- Galvanized storage rack components
+- Galvanized_storage_rack_components
+- compressed_gas_vessel
+- Galvanized_communication_tower_components
+- "co\u2082cylinder"
+- air_reciver_tank
+- pipe
+- refrigerant_cylinder
+- Galvanized_fabrication_offcuts
+- Refrigerant receiver tanks
+- gas_tank
+- propane_tank
+- reactor_vessel
+- Galvanized_electrical_support_frames
+- fire_extinguisher
+- gas_cartridge
+- Hydraulic accumulators
+- Hydraulic _accumulators
+- capped_cylinders
+- gas_bottle
+- Cryogenic_ vessel _shells
+- air_reciver_tanks
+- boiler_drums
+- lpg_cylinder
+- Galvanized_marine_hardware
+- hydraulic_cylinder
+- Galvanized_exhaust_stack_components
+- Galvanized_industrial_platform_sections
+- boiler_drum
+- capped _cylinders
+- Galvanized_offshore_platform_components
+- pressure_vessel
+- tubes
+- aerosol_can
+- Galvanized_fencing
+- hollow _structural _sections
+- Galvanized_utility_poles
+- Galvanized_HVAC_ductwork
+- storage_vessel
+- acetylene_cylinder
+- anhydrous_ammonia_tank
+- sealed _beams
+- Galvanized_cooling_tower_structures
+- pipe_tube
+- Galvanized_solar_mounting_structures
+- Galvanized_steel_sheets
+- chemical _mixing _vessels
+- Galvanized_agricultural_equipment_parts
+- oxygen_cylinder
+- Zinc-rich_coating_overspray_scrap
+- pressure_chamber_components
+- chemical_mixing_vessel
+- refrigrant_recivers_tank
+- heat_exchanger
+- transfermer_tank
+- closed_tank

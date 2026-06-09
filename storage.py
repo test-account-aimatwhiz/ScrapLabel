@@ -226,3 +226,25 @@ def list_pending_sessions():
             if unlabeled > 0:
                 pending.append({"image_name": meta["image_name"], "unlabeled": unlabeled})
     return pending
+
+
+def get_label_counts():
+    """Return {label: count} using the latest label per unique object_id.
+
+    For each object that has been labeled (possibly re-labeled multiple times),
+    only the most recent label is counted. This gives the true number of
+    distinct objects assigned to each category.
+
+    Storage path: database/labels.csv
+    """
+    if not os.path.exists(LABEL_FILE):
+        return {}
+
+    df = pd.read_csv(LABEL_FILE)
+    if df.empty:
+        return {}
+
+    # Keep only the latest label event for each unique object_id
+    latest = df.sort_values("timestamp").groupby("object_id").last().reset_index()
+    counts = latest["label"].value_counts().to_dict()
+    return counts

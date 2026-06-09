@@ -4,6 +4,7 @@ torch.classes.__path__ = []  # Fix: prevent Streamlit watcher from crashing on t
 import streamlit as st
 import cv2
 import numpy as np
+import pandas as pd
 import os
 
 from sam2_engine import (
@@ -14,7 +15,7 @@ from sam2_engine import (
 )
 
 from utils import load_categories, add_category
-from storage import save_to_db, save_yolo_annotation, save_session, load_session, mark_session_object_labeled, delete_session, list_pending_sessions
+from storage import save_to_db, save_yolo_annotation, save_session, load_session, mark_session_object_labeled, delete_session, list_pending_sessions, get_label_counts
 
 
 # =========================
@@ -28,6 +29,20 @@ st.title("🧠 SAM2 Industrial Labeling System")
 # SIDEBAR CONTROLS (SAM2)
 # =========================
 st.sidebar.header("⚙️ SAM2 Parameters")
+
+# =========================
+# SIDEBAR — LABEL COUNTS
+# =========================
+st.sidebar.divider()
+st.sidebar.subheader("📊 Label Counts")
+_sidebar_counts = get_label_counts()
+if _sidebar_counts:
+    for _lbl, _cnt in sorted(_sidebar_counts.items(), key=lambda x: -x[1]):
+        st.sidebar.metric(label=_lbl, value=_cnt)
+else:
+    st.sidebar.caption("No labels saved yet.")
+st.sidebar.caption("📁 `database/labels.csv`")
+st.sidebar.divider()
 
 points_per_side = st.sidebar.slider("Points Per Side", 16, 128, 32, step=16)
 points_per_batch = st.sidebar.slider("Points Per Batch", 16, 256, 128, step=16)
@@ -165,7 +180,14 @@ if st.session_state.image is not None:
     col1, col2 = st.columns(2)
 
     with col1:
-        st.image(st.session_state.image, caption="Original Image")
+        # Draw white bounding box around the currently selected object
+        display_img = st.session_state.image.copy()
+        if len(st.session_state.crops) > 0:
+            bbox = st.session_state.crops[st.session_state.index].get("bbox")
+            if bbox:
+                bx, by, bw, bh = [int(v) for v in bbox]
+                cv2.rectangle(display_img, (bx, by), (bx + bw, by + bh), (255, 255, 255), 4)
+        st.image(display_img, caption="Original Image  (white box = current object)")
 
     with col2:
         if len(st.session_state.crops) > 0:
@@ -261,6 +283,29 @@ if len(st.session_state.crops) > 0:
         if st.button("➡️ Next"):
             st.session_state.index = (idx + 1) % total
             st.rerun()
+
+    # =========================
+    # LABEL COUNT PANEL
+    # =========================
+    st.divider()
+    st.subheader("📊 Label Count Summary")
+    label_counts = get_label_counts()
+    if label_counts:
+        counts_df = pd.DataFrame(
+            [(lbl, cnt) for lbl, cnt in sorted(label_counts.items(), key=lambda x: -x[1])],
+            columns=["Label", "Labeled Objects"]
+        )
+        st.dataframe(counts_df, use_container_width=True, hide_index=True)
+    else:
+        st.info("No objects labeled yet.")
+    st.caption(
+        "📁 **Storage paths** — "
+        "Labels CSV: `database/labels.csv` | "
+        "Crops: `database/crops/` | "
+        "YOLO annotations: `dataset/labels/train/` | "
+        "Full images: `dataset/images/train/` | "
+        "Masks (.npy): `dataset/masks/`"
+    )
 
 
 # =========================
